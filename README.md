@@ -5,7 +5,7 @@
 - <b>Front End Web Apps (React JS, NodeJS)</b>
   - [NGO Charity Website](https://helpinghandsafrica.co.za) 
 - <b>Mobile Development (Android studio and Java)</b>
-  - [Local Church Mobile Application)](https://github.com/Retlhotse/LocalChurchApp)
+  - [Local Church Mobile Application](https://github.com/Retlhotse/LocalChurchApp)
   - [School feeding scheme Mobile Application](https://github.com/Retlhotse/FeedingSchemeApp)
   
   
