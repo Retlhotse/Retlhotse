@@ -1,7 +1,30 @@
-## Hi there 👋
+<h1>Hi, I'm Retlhotse Magano! </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Front End Web Apps (React JS, NodeJS)</b>
+  - [NGO Charity Website](https://helpinghandsafrica.co.za) 
+- <b>Mobile Development (Android studio and Java)</b>
+  - [School feeding scheme Mobile Application](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Local Church Mobile Application)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://www.linkedin.com/in/retlhotse-magano-40470426b
 
 <!--
-**Retlhotse/Retlhotse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
