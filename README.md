@@ -5,7 +5,7 @@
 - <b>Front End Web Apps (React JS, NodeJS)</b>
   - [NGO Charity Website](https://helpinghandsafrica.co.za) 
 - <b>Mobile Development (Android studio and Java)</b>
-  - [School feeding scheme Mobile Application](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [School feeding scheme Mobile Application](https://github.com/Retlhotse/FeedingSchemeApp)
   - [Local Church Mobile Application)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   
 
