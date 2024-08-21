@@ -1,5 +1,21 @@
 <h1>Hi, I'm Retlhotse Magano! </h1>
 
+<h2>Skill set:</h2>
+- <b>Java</b>
+<br/>
+- <b>C#</b>
+<br/>
+- <b>C++</b>
+<br/>
+- <b>Javascript</b>
+<br/>
+- <b>React JS</b>
+<br/>
+- <b>Node JS</b>
+<br/>
+- <b>SQL</b>
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front End Web Apps (React JS, NodeJS)</b>
