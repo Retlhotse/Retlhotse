@@ -1,0 +1,2411 @@
+question,label
+"What is a variable in programming?",low
+"Define a data structure.",low
+"What is an integer?",low
+"What is a string data type?",low
+"Explain the purpose of a boolean data type.",low
+"What is an array?",low
+"What is a linked list?",low
+"What is a stack?",low
+"What is a queue?",low
+"What does FIFO stand for in the context of queues?",low
+"What does LIFO stand for in the context of stacks?",low
+"What is a hash table?",low
+"What is a binary tree?",low
+"What is the root node in a tree?",low
+"What is a leaf node in a tree?",low
+"What is a graph data structure?",low
+"What is an algorithm?",low
+"What is pseudocode?",low
+"What is a compiler?",low
+"What is an interpreter?",low
+"Explain the difference between a compiler and an interpreter.",low
+"What is syntax in programming?",low
+"What is a function or method?",low
+"What are the parameters of a function?",low
+"What is a return value?",low
+"What is a loop?",low
+"Explain a 'for' loop.",low
+"Explain a 'while' loop.",low
+"What is a conditional statement?",low
+"Explain the 'if-else' statement.",low
+"What is Object-Oriented Programming (OOP)?",low
+"What is a class?",low
+"What is an object?",low
+"What is encapsulation?",low
+"What is inheritance?",low
+"What is polymorphism?",low
+"What is abstraction in OOP?",low
+"What is SQL?",low
+"What is a database?",low
+"What is a table in a database?",low
+"What is a primary key?",low
+"What is a foreign key?",low
+"What does the SQL SELECT statement do?",low
+"What is the purpose of the WHERE clause in SQL?",low
+"What is Git?",low
+"What is a repository in Git?",low
+"What does the 'git commit' command do?",low
+"What is a branch in Git?",low
+"What is the purpose of the 'git clone' command?",low
+"What is HTML?",low
+"What is CSS?",low
+"What is JavaScript?",low
+"What is an IP address?",low
+"What is a server?",low
+"What is a client in a client-server model?",low
+"What is an API?",low
+"What does HTTP stand for?",low
+"What is the purpose of a web browser?",low
+"What is debugging?",low
+"What is a breakpoint in debugging?",low
+"What is version control?",low
+"What is the difference between an argument and a parameter?",low
+"What is recursion?",low
+"What is a base case in recursion?",low
+"What is time complexity?",low
+"What is space complexity?",low
+"What is Big O notation?",low
+"What is a sorting algorithm?",low
+"Explain bubble sort.",low
+"What is a search algorithm?",low
+"Explain linear search.",low
+"What is a pointer?",low
+"What is memory allocation?",low
+"What is the difference between stack and heap memory?",low
+"What is a data type?",low
+"What is a character data type?",low
+"What is a floating-point number?",low
+"What is a comment in code?",low
+"What is a library in programming?",low
+"What is a framework?",low
+"What is the main function in C++ or Java?",low
+"What is a constructor?",low
+"What is a destructor?",low
+"What does the 'null' value represent?",low
+"What is an exception?",low
+"What is exception handling?",low
+"What is a 'try-catch' block?",low
+"What is a variable's scope?",low
+"What is a global variable?",low
+"What is a local variable?",low
+"What is a constant?",low
+"What is an operator?",low
+"What are arithmetic operators?",low
+"What are logical operators?",low
+"What is a bitwise operator?",low
+"What is a command-line interface (CLI)?",low
+"What is a graphical user interface (GUI)?",low
+"What is an IDE (Integrated Development Environment)?",low
+"What is source code?",low
+"What is a binary number?",low
+"What is hexadecimal?",low
+"What is ASCII?",low
+"What is Unicode?",low
+"What is a module in Python?",low
+"What is a package in Python?",low
+"What does the 'import' statement do?",low
+"What is a dictionary in Python?",low
+"What is a set in Python?",low
+"What is the difference between a list and a tuple in Python?",low
+"What is a static method?",low
+"What is an instance method?",low
+"What is a class variable?",low
+"What is an instance variable?",low
+"What is method overloading?",low
+"What is method overriding?",low
+"What is a superclass or base class?",low
+"What is a subclass or derived class?",low
+"What is an abstract class?",low
+"What is an interface?",low
+"What is a JOIN clause in SQL?",low
+"Explain an INNER JOIN.",low
+"Explain a LEFT JOIN.",low
+"What is the purpose of the GROUP BY clause in SQL?",low
+"What is an aggregate function in SQL?",low
+"What is the purpose of the 'git push' command?",low
+"What is the purpose of the 'git pull' command?",low
+"What is a merge conflict in Git?",low
+"What is a firewall?",low
+"What is encryption?",low
+"What is a cookie in web development?",low
+"What is a session in web development?",low
+"What is a CDN (Content Delivery Network)?",low
+"What is a DNS (Domain Name System)?",low
+"What is a file system?",low
+"What is a thread in programming?",low
+"What is multithreading?",low
+"What is a process?",low
+"What is the difference between a process and a thread?",low
+"What is a deadlock?",low
+"What is a race condition?",low
+"What is a semaphore?",low
+"What is a mutex?",low
+"What is serialization?",low
+"What is JSON?",low
+"What is XML?",low
+"What is the difference between JSON and XML?",low
+"What is a regular expression?",low
+"What is a lambda function or anonymous function?",low
+"What is a higher-order function?",low
+"What is a closure in JavaScript?",low
+"What is hoisting in JavaScript?",low
+"What is the difference between '==' and '===' in JavaScript?",low
+"What is the DOM (Document Object Model)?",low
+"What is an event in JavaScript?",low
+"What is event bubbling?",low
+"What is AJAX?",low
+"What is a promise in JavaScript?",low
+"What is a virtual machine?",low
+"What is garbage collection?",low
+"What is a memory leak?",low
+"What is a data model?",low
+"What is data normalization?",low
+"What is a database index?",low
+"What is a stored procedure?",low
+"What is a database trigger?",low
+"What is a view in SQL?",low
+"What is a transaction in a database context?",low
+"What are the ACID properties?",low
+"What is a NoSQL database?",low
+"What is the difference between SQL and NoSQL databases?",low
+"What is a key-value store?",low
+"What is a document store?",low
+"What is a graph database?",low
+"What is scalability?",low
+"What is the difference between horizontal and vertical scaling?",low
+"What is a load balancer?",low
+"What is caching?",low
+"What is a message queue?",low
+"What is a web server?",low
+"What is an application server?",low
+"What is REST?",low
+"What are the principles of RESTful API design?",low
+"What is a microservices architecture?",low
+"What is a monolithic architecture?",low
+"What is DevOps?",low
+"What is continuous integration (CI)?",low
+"What is continuous delivery (CD)?",low
+"What is a container (like Docker)?",low
+"What is container orchestration (like Kubernetes)?",low
+"What is cloud computing?",low
+"What is Infrastructure as a Service (IaaS)?",low
+"What is Platform as a Service (PaaS)?",low
+"What is Software as a Service (SaaS)?",low
+"What is a unit test?",low
+"What is an integration test?",low
+"What is an end-to-end test?",low
+"What is test-driven development (TDD)?",low
+"What is agile methodology?",low
+"What is scrum?",low
+"What is a sprint in scrum?",low
+"What is a user story?",low
+"What is a design pattern?",low
+"Explain the Singleton design pattern.",low
+"Explain the Factory design pattern.",low
+"What is a bit?",low
+"What is a byte?",low
+"What is machine learning?",low
+"What is supervised learning?",low
+"What is unsupervised learning?",low
+"What is a neural network?",low
+"What is deep learning?",low
+"What is a character encoding?",low
+"What is UTF-8?",low
+"What is a software development life cycle (SDLC)?",low
+"What is the Waterfall model?",low
+"What is a command in SQL?",low
+"What is DDL (Data Definition Language)?",low
+"What is DML (Data Manipulation Language)?",low
+"What is DCL (Data Control Language)?",low
+"What does the SQL INSERT statement do?",low
+"What does the SQL UPDATE statement do?",low
+"What does the SQL DELETE statement do?",low
+"What is the purpose of the ORDER BY clause in SQL?",low
+"What is the purpose of the LIMIT clause in SQL?",low
+"What is a subquery in SQL?",low
+"What is an alias in SQL?",low
+"What is the difference between UNION and UNION ALL in SQL?",low
+"What is a constraint in SQL?",low
+"What is a NOT NULL constraint?",low
+"What is a UNIQUE constraint?",low
+"What is a CHECK constraint?",low
+"What is the purpose of the 'git status' command?",low
+"What is the purpose of the 'git log' command?",low
+"What is the purpose of the 'git diff' command?",low
+"What is a remote repository in Git?",low
+"What is the 'origin' in Git?",low
+"What is a pull request?",low
+"What is a 'git merge' command?",low
+"What is a '.gitignore' file?",low
+"What is a programming paradigm?",low
+"What is procedural programming?",low
+"What is functional programming?",low
+"What are pure functions?",low
+"What are side effects in functional programming?",low
+"What is immutability?",low
+"What is a pointer in C++?",low
+"What is a reference in C++?",low
+"What is the difference between a pointer and a reference in C++?",low
+"What is the 'this' pointer in C++?",low
+"What is a virtual function in C++?",low
+"What is a template in C++?",low
+"What is the Standard Template Library (STL) in C++?",low
+"What is a vector in C++?",low
+"What is a map in C++?",low
+"What is an iterator in C++?",low
+"What is the Global Interpreter Lock (GIL) in Python?",low
+"What are decorators in Python?",low
+"What are generators in Python?",low
+"What is the 'yield' keyword in Python?",low
+"What is a context manager in Python?",low
+"What is the 'with' statement in Python?",low
+"What is a metaclass in Python?",low
+"What is the event loop in JavaScript?",low
+"What is a callback function in JavaScript?",low
+s"What is 'callback hell'?",low
+"What does 'async/await' do in JavaScript?",low
+"What is a module bundler (like Webpack)?",low
+"What is a front-end framework (like React, Vue, Angular)?",low
+"What is a component in a front-end framework?",low
+"What is state management in front-end development?",low
+"What is a cross-site scripting (XSS) attack?",low
+"What is a cross-site request forgery (CSRF) attack?",low
+"What is a denial-of-service (DoS) attack?",low
+"What is a distributed denial-of-service (DDoS) attack?",low
+"What is a man-in-the-middle (MITM) attack?",low
+"What is hashing?",low
+"What is the difference between hashing and encryption?",low
+"What is salting a password?",low
+"What is two-factor authentication (2FA)?",low
+"What is OAuth?",low
+"What is a JWT (JSON Web Token)?",low
+"What is a binary search tree (BST)?",low
+"What is the height of a tree?",low
+"What is a balanced binary tree?",low
+"What is an AVL tree?",low
+"What is a Red-Black Tree?",low
+"What is a heap?",low
+"What is the difference between a min-heap and a max-heap?",low
+"What is a priority queue?",low
+"What is a trie (prefix tree)?",low
+"What is dynamic programming?",low
+"What is memoization?",low
+"What is a greedy algorithm?",low
+"What is a divide and conquer algorithm?",low
+"What is backtracking?",low
+"What is a bitmask?",low
+"What is an adjacency matrix?",low
+"What is an adjacency list?",low
+"What is graph traversal?",low
+"Explain Breadth-First Search (BFS).",low
+"Explain Depth-First Search (DFS).",low
+"What is a topological sort?",low
+"What is a minimum spanning tree (MST)?",low
+"What is Kruskal's algorithm?",low
+"What is Prim's algorithm?",low
+"What is Dijkstra's algorithm?",low
+"What is the Bellman-Ford algorithm?",low
+"What is the Floyd-Warshall algorithm?",low
+"What is a network protocol?",low
+"What is TCP/IP?",low
+"What is the difference between TCP and UDP?",low
+"What is a socket?",low
+"What is a port number?",low
+"What is localhost?",low
+"What is a cookie?",low
+"What is local storage in a browser?",low
+"What is session storage in a browser?",low
+"What is the difference between local storage and session storage?",low
+"What is responsive web design?",low
+"What is a CSS preprocessor (like Sass or Less)?",low
+"What is a build tool (like Gulp or Grunt)?",low
+"What is a linter?",low
+"What is a code formatter?",low
+"What is a packet in networking?",low
+"What is a router?",low
+"What is a switch?",low
+"What is a MAC address?",low
+"What is a subnet mask?",low
+"What is a gateway?",low
+"What is a proxy server?",low
+"What is a reverse proxy?",low
+"What is a thread pool?",low
+"What is a connection pool?",low
+"What is object pooling?",low
+"What is lazy loading?",low
+"What is eager loading?",low
+"What is a singleton?",low
+"What is dependency injection?",low
+"What is inversion of control (IoC)?",low
+"What is a content management system (CMS)?",low
+"What is a static site generator?",low
+"What is serverless computing?",low
+"What is a relational database?",low
+"What is a column-oriented database?",low
+"What is a time-series database?",low
+"What is a data warehouse?",low
+"What is a data lake?",low
+"What is ETL (Extract, Transform, Load)?",low
+"What is data mining?",low
+"What is big data?",low
+"What is Hadoop?",low
+"What is MapReduce?",low
+"What is Spark?",low
+"What is a Jupyter Notebook?",low
+"What is a confusion matrix?",low
+"What is precision in machine learning?",low
+"What is recall in machine learning?",low
+"What is an F1-score?",low
+"What is an ROC curve?",low
+"What is a feature in machine learning?",low
+"What is feature engineering?",low
+"What is feature selection?",low
+"What is overfitting?",low
+"What is underfitting?",low
+"What is cross-validation?",low
+"What is a hyperparameter?",low
+"What is hyperparameter tuning?",low
+"What is a model's bias?",low
+"What is a model's variance?",low
+"What is the bias-variance tradeoff?",low
+"What is a regression problem?",low
+"What is a classification problem?",low
+"What is a clustering problem?",low
+"What is linear regression?",low
+"What is logistic regression?",low
+"What is a decision tree?",low
+"What is a random forest?",low
+"What is a support vector machine (SVM)?",low
+"What is K-means clustering?",low
+"What is hierarchical clustering?",low
+"What is dimensionality reduction?",low
+"What is Principal Component Analysis (PCA)?",low
+"What is natural language processing (NLP)?",low
+"What is computer vision?",low
+"What is an operating system?",low
+"What is a kernel?",low
+"What is a shell?",low
+"What is a file descriptor?",low
+"What is a system call?",low
+"What is virtual memory?",low
+"What is paging?",low
+"What is segmentation?",low
+"What is a context switch?",low
+"What is a scheduler?",low
+"What is a command?",low
+"What is a script?",low
+"What is a terminal?",low
+"What is a shell script?",low
+"What is a path environment variable?",low
+"What is a standard input?",low
+"What is a standard output?",low
+"What is a standard error?",low
+"What is a pipe in command line?",low
+"What is a redirection in command line?",low
+"What is a process ID (PID)?",low
+"What is a signal in operating systems?",low
+"What is a daemon?",low
+"What is a service?",low
+"What is a socket file?",low
+"What is a symbolic link?",low
+"What is a hard link?",low
+"What is the difference between a symbolic and a hard link?",low
+"What are file permissions?",low
+"What is a user account?",low
+"What is a group in operating systems?",low
+"What is a root user?",low
+"What is sudo?",low
+"What is a package manager?",low
+"What is a dependency in software?",low
+"What is a build system?",low
+"What is a makefile?",low
+"What is a shared library?",low
+"What is a static library?",low
+"What is the difference between a shared and a static library?",low
+"What is dynamic linking?",low
+"What is static linking?",low
+"What is a call stack?",low
+"What is a stack overflow?",low
+"What is a heap overflow?",low
+"What is a buffer overflow?",low
+"What is a segmentation fault?",low
+"What is a core dump?",low
+s"What is a race condition in multithreading?",low
+"What is a critical section?",low
+"What is a thread-safe function?",low
+"What is an atomic operation?",low
+"What is a lock-free data structure?",low
+"What is a future or promise in concurrent programming?",low
+"What is an async/await pattern?",low
+"What is an event-driven architecture?",low
+"What is a publisher-subscriber pattern?",low
+"What is an observer pattern?",low
+"What is a model-view-controller (MVC) architecture?",low
+"What is a model-view-viewmodel (MVVM) architecture?",low
+"What is a three-tier architecture?",low
+"What is an n-tier architecture?",low
+"What is domain-driven design (DDD)?",low
+"What is a bounded context in DDD?",low
+"What is an aggregate in DDD?",low
+"What is a repository pattern?",low
+"What is a service layer?",low
+"What is a data access object (DAO)?",low
+"What is an object-relational mapping (ORM)?",low
+"What is a query builder?",low
+"What is a database migration?",low
+"What is a schema?",low
+"What is a data dictionary?",low
+"What is metadata?",low
+"What is a character set?",low
+"What is a collation?",low
+"What is a transaction log?",low
+"What is a checkpoint in a database?",low
+"What is database replication?",low
+"What is a master-slave replication?",low
+"What is a master-master replication?",low
+"What is a database cluster?",low
+"What is high availability?",low
+"What is fault tolerance?",low
+"What is disaster recovery?",low
+"What is a backup?",low
+"What is a restore?",low
+"What is a point-in-time recovery?",low
+"What is a hot backup?",low
+"What is a cold backup?",low
+"What is a differential backup?",low
+"What is an incremental backup?",low
+"What is a full backup?",low
+"What is a virtual private network (VPN)?",low
+"What is a proxy?",low
+"What is a reverse proxy?",low
+"What is a firewall rule?",low
+"What is an intrusion detection system (IDS)?",low
+"What is an intrusion prevention system (IPS)?",low
+"What is a security policy?",low
+"What is a security audit?",low
+"What is a penetration test?",low
+"What is a vulnerability assessment?",low
+"What is a security token?",low
+"What is a digital certificate?",low
+"What is a certificate authority (CA)?",low
+"What is a public key infrastructure (PKI)?",low
+"What is SSL/TLS?",low
+"What is a handshake in SSL/TLS?",low
+"What is a cipher suite?",low
+"What is a digital signature?",low
+"What is a message authentication code (MAC)?",low
+"What is a cryptographic hash function?",low
+"What are the properties of a cryptographic hash function?",low
+"What is a collision in a hash function?",low
+"What is a salt in cryptography?",low
+"What is key stretching?",low
+"What is a key exchange algorithm?",low
+s"What is Diffie-Hellman key exchange?",low
+"What is RSA algorithm?",low
+"What is AES algorithm?",low
+"What is a block cipher?",low
+"What is a stream cipher?",low
+"What is a cipher mode of operation?",low
+"What is a brute-force attack?",low
+"What is a dictionary attack?",low
+"What is a rainbow table attack?",low
+"What is a phishing attack?",low
+"What is a spear phishing attack?",low
+"What is a whaling attack?",low
+"What is a malware?",low
+"What is a virus?",low
+"What is a worm?",low
+"What is a trojan horse?",low
+"What is a spyware?",low
+"What is an adware?",low
+"What is a ransomware?",low
+"What is a rootkit?",low
+"What is a botnet?",low
+"What is a keylogger?",low
+"What is a zero-day vulnerability?",low
+"What is a patch?",low
+"What is patch management?",low
+"What is a security advisory?",low
+"What is a CVE (Common Vulnerabilities and Exposures)?",low
+"What is a CVSS (Common Vulnerability Scoring System)?",low
+"What is OWASP?",low
+"What are the OWASP Top 10?",low
+"What is a web application firewall (WAF)?",low
+"What is a security information and event management (SIEM) system?",low
+"What is a log file?",low
+"What is log analysis?",low
+"What is a correlation rule in SIEM?",low
+"What is an incident response plan?",low
+"What is a forensics analysis?",low
+"What is a chain of custody?",low
+"What is a sandbox environment?",low
+"What is a honeypot?",low
+"What is threat intelligence?",low
+"What is an indicator of compromise (IOC)?",low
+"What is an indicator of attack (IOA)?",low
+"What is a threat actor?",low
+"What is a threat vector?",low
+s"What is an attack surface?",low
+"What is a security hardening?",low
+"What is the principle of least privilege?",low
+"What is defense in depth?",low
+"What is a security control?",low
+"What is a preventative control?",low
+"What is a detective control?",low
+"What is a corrective control?",low
+"What is a risk assessment?",low
+"What is a risk management?",low
+"What is a business continuity plan (BCP)?",low
+"What is a disaster recovery plan (DRP)?",low
+"What is a service level agreement (SLA)?",low
+"What is a key performance indicator (KPI)?",low
+"What is a software requirement specification (SRS)?",low
+"What is a use case?",low
+"What is a UML diagram?",low
+"What is a class diagram?",low
+"What is a sequence diagram?",low
+"What is an activity diagram?",low
+"What is a state diagram?",low
+"What is a component diagram?",low
+"What is a deployment diagram?",low
+"What is a data flow diagram (DFD)?",low
+"What is an entity-relationship diagram (ERD)?",low
+"What is a flowchart?",low
+"What is a wireframe?",low
+"What is a mockup?",low
+"What is a prototype?",low
+"What is user experience (UX)?",low
+"What is user interface (UI)?",low
+"What is accessibility (a11y)?",low
+"What is internationalization (i18n)?",low
+"What is localization (l10n)?",low
+"What is a character set encoding?",low
+"What is a code review?",low
+"What is pair programming?",low
+"What is refactoring?",low
+"What is technical debt?",low
+"What is a code smell?",low
+"What is the DRY principle?",low
+"What is the KISS principle?",low
+"What is the YAGNI principle?",low
+"What are the SOLID principles?",low
+"What is the Single Responsibility Principle?",low
+"What is the Open/Closed Principle?",low
+"What is the Liskov Substitution Principle?",low
+"What is the Interface Segregation Principle?",low
+"What is the Dependency Inversion Principle?",low
+"What is a software license?",low
+"What is open-source software?",low
+"What is free software?",low
+"What is a proprietary software?",low
+"What is a copyleft license?",low
+"What is a permissive license?",low
+"What is the GPL license?",low
+"What is the MIT license?",low
+"What is the Apache license?",low
+"What is a patent?",low
+"What is a copyright?",low
+"What is a trademark?",low
+"What is intellectual property?",low
+"What is a non-disclosure agreement (NDA)?",low
+"What is a statement of work (SOW)?",low
+"What is a request for proposal (RFP)?",low
+"What is a proof of concept (POC)?",low
+"What is a minimum viable product (MVP)?",low
+"What is a feature flag or feature toggle?",low
+"What is A/B testing?",low
+"What is canary releasing?",low
+"What is blue-green deployment?",low
+"What is a rollback?",low
+"What is uptime?",low
+"What is downtime?",low
+"What is latency?",low
+"What is throughput?",low
+"What is bandwidth?",low
+"What is a protocol?",low
+"What is a standard?",low
+"What is an RFC (Request for Comments)?",low
+"What is the IETF (Internet Engineering Task Force)?",low
+"What is the W3C (World Wide Web Consortium)?",low
+"What is ECMA International?",low
+"What is the OSI model?",low
+"What are the seven layers of the OSI model?",low
+"What is the application layer?",low
+"What is the presentation layer?",low
+"What is the session layer?",low
+"What is the transport layer?",low
+"What is the network layer?",low
+"What is the data link layer?",low
+"What is the physical layer?",low
+"What is a finite state machine?",low
+"What is a Turing machine?",low
+"What is computational complexity theory?",low
+"What is the P versus NP problem?",low
+"What is a deterministic algorithm?",low
+"What is a non-deterministic algorithm?",low
+"What is a probabilistic algorithm?",low
+"What is a quantum computer?",low
+"What is a qubit?",low
+"What is quantum entanglement?",low
+"What is quantum superposition?",low
+"What is a quantum algorithm?",low
+"What is Shor's algorithm?",low
+"What is Grover's algorithm?",low
+"What is a blockchain?",low
+"What is a cryptocurrency?",low
+"What is Bitcoin?",low
+"What is Ethereum?",low
+"What is a smart contract?",low
+"What is a distributed ledger?",low
+"What is a consensus algorithm?",low
+"What is proof-of-work?",low
+"What is proof-of-stake?",low
+"What is a hash rate?",low
+"What is a block in a blockchain?",low
+"What is a transaction in a blockchain?",low
+"What is a wallet in cryptocurrency?",low
+"What is a private key?",low
+"What is a public key?",low
+"What is a seed phrase?",low
+"What is a fork in blockchain?",low
+"What is a hard fork?",low
+"What is a soft fork?",low
+"What is a decentralized application (dApp)?",low
+"What is a decentralized autonomous organization (DAO)?",low
+"What is Web3?",low
+"What is the metaverse?",low
+"What is virtual reality (VR)?",low
+"What is augmented reality (AR)?",low
+"What is mixed reality (MR)?",low
+"What is the Internet of Things (IoT)?",low
+"What is an embedded system?",low
+"What is a real-time operating system (RTOS)?",low
+"What is firmware?",low
+"What is a driver?",low
+"What is a BIOS?",low
+"What is UEFI?",low
+"What is a bootloader?",low
+"What is an interrupt?",low
+"What is a polling loop?",low
+"What is a watchdog timer?",low
+"What is a digital signal processor (DSP)?",low
+"What is a field-programmable gate array (FPGA)?",low
+"What is an application-specific integrated circuit (ASIC)?",low
+"What is a system on a chip (SoC)?",low
+"What is a microcontroller?",low
+"What is a microprocessor?",low
+"What is an instruction set architecture (ISA)?",low
+"What is RISC?",low
+"What is CISC?",low
+"What is a pipeline in a CPU?",low
+"What is a cache in a CPU?",low
+"What are the levels of CPU cache?",low
+"What is a cache hit?",low
+"What is a cache miss?",low
+"What is a branch predictor?",low
+"What is speculative execution?",low
+"What is hyper-threading?",low
+"What is a GPU?",low
+"What is a CUDA core?",low
+"What is a shader?",low
+"What is a vertex shader?",low
+"What is a pixel shader?",low
+"What is a rendering pipeline?",low
+"What is rasterization?",low
+"What is ray tracing?",low
+"What is a texture map?",low
+"What is a bump map?",low
+"What is a normal map?",low
+"What is anti-aliasing?",low
+"What is a frame rate?",low
+"What is a refresh rate?",low
+"What is VSync?",low
+"What is a game engine?",low
+"What is a physics engine?",low
+"What is a scene graph?",low
+"What is a collision detection?",low
+"What is a game loop?",low
+"What is an entity-component-system (ECS) architecture?",low
+"What is a shader language (like GLSL or HLSL)?",low
+"What is OpenGL?",low
+"What is DirectX?",low
+"What is Vulkan?",low
+"What is Metal?",low
+"What is WebGL?",low
+"What is a graphics API?",low
+"What is a sound engine?",low
+"What is 3D audio?",low
+"What is a MIDI file?",low
+"What is a WAV file?",low
+"What is an MP3 file?",low
+"What is a codec?",low
+"What is a container format?",low
+"What is streaming?",low
+"What is a buffer?",low
+"What is a double buffer?",low
+"What is a circular buffer?",low
+"What is a ring buffer?",low
+"What is a FIFO buffer?",low
+"What is a LIFO buffer?",low
+"What is a memory management unit (MMU)?",low
+"What is a page table?",low
+"What is a translation lookaside buffer (TLB)?",low
+"What is a page fault?",low
+"What is swapping?",low
+"What is thrashing?",low
+"What is a working set?",low
+"What is a memory-mapped file?",low
+"What is inter-process communication (IPC)?",low
+"What is a shared memory?",low
+"What is a message passing?",low
+"What is a pipe?",low
+"What is a named pipe?",low
+"What is a socket pair?",low
+"What is a remote procedure call (RPC)?",low
+"What is a stub in RPC?",low
+"What is marshalling?",low
+"What is unmarshalling?",low
+"What is a network socket?",low
+"What is a stream socket?",low
+"What is a datagram socket?",low
+"What is a raw socket?",low
+"What is a loopback device?",low
+"What is a network interface controller (NIC)?",low
+"What is a device driver?",low
+"What is a kernel module?",low
+"What is a system log?",low
+"What is a crash log?",low
+"What is a stack trace?",low
+"What is a profiler?",low
+"What is a code coverage tool?",low
+"What is a static analysis tool?",low
+"What is a dynamic analysis tool?",low
+"What is a fuzzer?",low
+"What is a debugger?",low
+"What is a disassembler?",low
+"What is a decompiler?",low
+"What is reverse engineering?",low
+"What is a software bug?",low
+"What is a regression bug?",low
+s"What is a security bug?",low
+"What is a logic bug?",low
+"What is a syntax error?",low
+"What is a runtime error?",low
+"What is a logical error?",low
+"What is a floating point error?",low
+"What is an off-by-one error?",low
+"What is a memory error?",low
+"What is a concurrency error?",low
+"What is a performance bug?",low
+"What is a usability bug?",low
+"What is a compatibility bug?",low
+"What is a bug report?",low
+"What is a bug tracking system?",low
+"What is a test case?",low
+"What is a test plan?",low
+"What is a test suite?",low
+"What is a test script?",low
+"What is a test environment?",low
+"What is a test data?",low
+"What is a test harness?",low
+"What is a test stub?",low
+"What is a test mock?",low
+"What is a test driver?",low
+"What is a test oracle?",low
+"What is a test coverage?",low
+"What is a statement coverage?",low
+"What is a branch coverage?",low
+"What is a path coverage?",low
+"What is a mutation testing?",low
+"What is a regression testing?",low
+"What is a smoke testing?",low
+"What is a sanity testing?",low
+"What is a functional testing?",low
+"What is a non-functional testing?",low
+"What is a performance testing?",low
+"What is a load testing?",low
+"What is a stress testing?",low
+"What is a soak testing?",low
+"What is a spike testing?",low
+"What is a volume testing?",low
+"What is a scalability testing?",low
+"What is a reliability testing?",low
+"What is a usability testing?",low
+"What is an accessibility testing?",low
+"What is a security testing?",low
+"What is a penetration testing?",low
+"What is a vulnerability scanning?",low
+"What is a code audit?",low
+"What is a static code analysis?",low
+"What is a dynamic code analysis?",low
+"What is a formal verification?",low
+"What is a model checking?",low
+"What is a theorem proving?",low
+"What is a software metric?",low
+"What is a cyclomatic complexity?",low
+"What is a Halstead complexity measure?",low
+"What is a lines of code (LOC)?",low
+"What is a function point?",low
+"What is a COCOMO model?",low
+"What is a software estimation?",low
+"What is a project management?",low
+"What is a project plan?",low
+"What is a Gantt chart?",low
+"What is a PERT chart?",low
+"What is a critical path method?",low
+"What is a work breakdown structure (WBS)?",low
+"What is a milestone?",low
+"What is a deliverable?",low
+"What is a scope?",low
+"What is a scope creep?",low
+"What is a risk management?",low
+"What is a risk register?",low
+"What is a stakeholder?",low
+"What is a project charter?",low
+"What is a project kickoff meeting?",low
+"What is a status report?",low
+"What is a post-mortem meeting?",low
+"What is a lessons learned document?",low
+"What is a change management?",low
+"What is a configuration management?",low
+s"What is a version control system?",low
+"What is a source code management (SCM)?",low
+"What is a centralized version control system?",low
+"What is a distributed version control system?",low
+"What is the difference between CVCS and DVCS?",low
+"What is a commit?",low
+"What is a checkout?",low
+"What is a merge?",low
+"What is a conflict?",low
+"What is a branch?",low
+"What is a tag?",low
+"What is a repository?",low
+"What is a working copy?",low
+"What is a trunk or main branch?",low
+"What is a feature branch?",low
+"What is a release branch?",low
+"What is a hotfix branch?",low
+"What is a branching strategy?",low
+"What is Gitflow?",low
+"What is GitHub Flow?",low
+"What is GitLab Flow?",low
+"What is a trunk-based development?",low
+"What is a code review workflow?",low
+"What is a pull request workflow?",low
+"What is a forking workflow?",low
+"What is a continuous integration server?",low
+"What is a build server?",low
+"What is a build pipeline?",low
+"What is a build artifact?",low
+"What is a deployment pipeline?",low
+"What is a release pipeline?",low
+"What is an environment?",low
+"What is a development environment?",low
+"What is a testing environment?",low
+"What is a staging environment?",low
+"What is a production environment?",low
+"What is a blue-green deployment strategy?",low
+"What is a canary deployment strategy?",low
+"What is a rolling deployment strategy?",low
+"What is an infrastructure as code (IaC)?",low
+"What is a configuration management tool?",low
+"What is Ansible?",low
+"What is Puppet?",low
+"What is Chef?",low
+"What is SaltStack?",low
+"What is Terraform?",low
+"What is CloudFormation?",low
+"What is a virtual machine image?",low
+"What is a container image?",low
+"What is a Dockerfile?",low
+"What is a Docker Hub?",low
+"What is a container registry?",low
+"What is Kubernetes?",low
+"What is a pod in Kubernetes?",low
+"What is a service in Kubernetes?",low
+"What is a deployment in Kubernetes?",low
+"What is a replica set in Kubernetes?",low
+"What is a namespace in Kubernetes?",low
+"What is a config map in Kubernetes?",low
+"What is a secret in Kubernetes?",low
+"What is an ingress in Kubernetes?",low
+"What is a Helm chart?",low
+"What is a service mesh?",low
+"What is Istio?",low
+"What is Linkerd?",low
+"What is a monitoring system?",low
+"What is a logging system?",low
+"What is a tracing system?",low
+"What is observability?",low
+"What is Prometheus?",low
+"What is Grafana?",low
+"What is the ELK stack?",low
+"What is Elasticsearch?",low
+"What is Logstash?",low
+"What is Kibana?",low
+"What is Fluentd?",low
+"What is Jaeger?",low
+"What is Zipkin?",low
+"What is OpenTelemetry?",low
+"What is an alert?",low
+"What is an on-call rotation?",low
+"What is an incident?",low
+"What is an incident management?",low
+"What is a post-incident review?",low
+"What is a root cause analysis (RCA)?",low
+"What is a service level objective (SLO)?",low
+"What is a service level indicator (SLI)?",low
+"What is an error budget?",low
+"What is site reliability engineering (SRE)?",low
+"What is a chaos engineering?",low
+"What is a game day exercise?",low
+"What is a feature?",low
+"What is a requirement?",low
+"What is a functional requirement?",low
+
+"What is a non-functional requirement?",low
+"What is a user requirement?",low
+"What is a system requirement?",low
+"What is a business requirement?",low
+"What is a stakeholder requirement?",low
+"What is a quality attribute?",low
+"What is performance?",low
+"What is reliability?",low
+"What is availability?",low
+"What is security?",low
+"What is usability?",low
+"What is maintainability?",low
+"What is portability?",low
+"What is interoperability?",low
+"What is scalability?",low
+"What is extensibility?",low
+"What is reusability?",low
+"What is testability?",low
+"What is a trade-off?",low
+"What is a constraint?",low
+"What is an assumption?",low
+"What is a risk?",low
+"What is a mitigation?",low
+"What is a dependency?",low
+"What is an interface?",low
+"What is a protocol?",low
+"What is a standard?",low
+"What is a specification?",low
+"What is a documentation?",low
+"What is a user manual?",low
+"What is a developer guide?",low
+"What is an API documentation?",low
+"What is a code comment?",low
+"What is a self-documenting code?",low
+"What is a literate programming?",low
+"What is a software architecture?",low
+"What is a system architecture?",low
+"What is an enterprise architecture?",low
+"What is a solution architecture?",low
+"What is a technical architecture?",low
+"What is an architectural pattern?",low
+"What is an architectural style?",low
+"What is a layered architecture?",low
+"What is a client-server architecture?",low
+"What is a peer-to-peer architecture?",low
+"What is a pipe-and-filter architecture?",low
+"What is a blackboard architecture?",low
+"What is a broker architecture?",low
+"What is an event-bus architecture?",low
+"What is a microkernel architecture?",low
+"What is a service-oriented architecture (SOA)?",low
+"What is a component-based architecture?",low
+"What is an object-oriented architecture?",low
+"What is a functional architecture?",low
+"What is a data-centric architecture?",low
+"What is a data-flow architecture?",low
+"What is a call-and-return architecture?",low
+"What is a code-on-demand architecture?",low
+"What is a uniform interface?",low
+"What is a stateless protocol?",low
+"What is a cacheable response?",low
+"What is a layered system?",low
+"What is a client-stateless-server architecture?",low
+"What is a representational state transfer (REST)?",low
+"What is a simple object access protocol (SOAP)?",low
+"What is a GraphQL?",low
+"What is a gRPC?",low
+"What is a WebSocket?",low
+"What is a message broker?",low
+"What is RabbitMQ?",low
+"What is Kafka?",low
+"What is a publish-subscribe model?",low
+"What is a point-to-point model?",low
+"What is a request-response model?",low
+"What is a client-side rendering?",low
+"What is a server-side rendering?",low
+"What is a static site generation?",low
+"What is a single-page application (SPA)?",low
+"What is a progressive web app (PWA)?",low
+"What is a web component?",low
+"What is a shadow DOM?",low
+"What is a virtual DOM?",low
+"What is a state?",low
+"What is a props?",low
+"What is a component lifecycle?",low
+"What is a hook in React?",low
+"What is a stateful component?",low
+"What is a stateless component?",low
+"What is a controlled component?",low
+"What is an uncontrolled component?",low
+"What is a higher-order component (HOC)?",low
+"What is a render prop?",low
+"What is a context API in React?",low
+"What is a Redux?",low
+"What is an action in Redux?",low
+"What is a reducer in Redux?",low
+"What is a store in Redux?",low
+"What is a middleware in Redux?",low
+"What is a selector in Redux?",low
+"What is a thunk in Redux?",low
+"What is a saga in Redux?",low
+"What is a Vuex?",low
+"What is a mutation in Vuex?",low
+"What is a getter in Vuex?",low
+"What is a module in Vuex?",low
+"What is a NgRx?",low
+"What is an effect in NgRx?",low
+"What is a state management library?",low
+"What is a routing library?",low
+"What is a React Router?",low
+"What is a Vue Router?",low
+"What is an Angular Router?",low
+"What is a CSS-in-JS library?",low
+"What is a styled-components?",low
+"What is an Emotion?",low
+"What is a CSS module?",low
+"What is a BEM methodology?",low
+"What is a utility-first CSS framework?",low
+"What is a Tailwind CSS?",low
+"What is a Bootstrap?",low
+"What is a Material Design?",low
+"What is a design system?",low
+"What is a component library?",low
+"What is a Storybook?",low
+"What is a style guide?",low
+"What is a pattern library?",low
+"What is a token in a design system?",low
+"What is a design token?",low
+"What is a visual regression testing?",low
+"What is a snapshot testing?",low
+"What is a end-to-end testing framework?",low
+"What is a Cypress?",low
+"What is a Playwright?",low
+"What is a Selenium?",low
+"What is a Puppeteer?",low
+"What is a unit testing framework?",low
+"What is a Jest?",low
+"What is a Mocha?",low
+"What is a Chai?",low
+"What is a Jasmine?",low
+"What is a Karma?",low
+"What is a testing library?",low
+"What is a React Testing Library?",low
+"What is a Enzyme?",low
+"What is a mock object?",low
+"What is a spy object?",low
+"What is a stub object?",low
+"What is a fake object?",low
+"What is a dummy object?",low
+"What is a test double?",low
+"What is a dependency injection container?",low
+"What is a service locator?",low
+"What is an aspect-oriented programming (AOP)?",low
+"What is a cross-cutting concern?",low
+"What is an advice in AOP?",low
+"What is a pointcut in AOP?",low
+"What is a join point in AOP?",low
+"What is an aspect in AOP?",low
+"What is a weaving in AOP?",low
+"What is a metaprogramming?",low
+"What is a reflection?",low
+"What is an introspection?",low
+"What is a type erasure?",low
+"What is a generic programming?",low
+"What is a template metaprogramming?",low
+"What is a preprocessor?",low
+"What is a macro?",low
+"What is a transpiler?",low
+"What is a source-to-source compiler?",low
+"What is a Babel?",low
+"What is a TypeScript?",low
+"What is a type system?",low
+"What is a static type system?",low
+"What is a dynamic type system?",low
+"What is a strong typing?",low
+"What is a weak typing?",low
+"What is a type inference?",low
+"What is a duck typing?",low
+"What is a nominal type system?",low
+"What is a structural type system?",low
+"What is a gradual typing?",low
+"What is a dependent type?",low
+"What is a linear type?",low
+"What is a refinement type?",low
+"What is a type class?",low
+"What is a higher-kinded type?",low
+"What is a monad?",low
+"What is a functor?",low
+"What is an applicative functor?",low
+"What is a category theory?",low
+"What is a lambda calculus?",low
+"What is a combinatory logic?",low
+"What is a formal methods?",low
+"What is a model checking?",low
+"What is a static analysis?",low
+"What is a symbolic execution?",low
+"What is a abstract interpretation?",low
+"What is a program synthesis?",low
+"What is a program verification?",low
+"What is a proof assistant?",low
+"What is a Coq?",low
+"What is a Isabelle/HOL?",low
+"What is a Lean?",low
+"What is a Agda?",low
+"What is a formal specification language?",low
+"What is a Z notation?",low
+"What is a VDM?",low
+"What is a B-Method?",low
+"What is a TLA+?",low
+"What is a Alloy?",low
+"What is a logic programming?",low
+"What is a Prolog?",low
+"What is a Datalog?",low
+"What is a constraint logic programming?",low
+"What is a concurrent programming?",low
+"What is a parallel programming?",low
+"What is a distributed programming?",low
+"What is a shared memory model?",low
+"What is a message passing model?",low
+"What is a dataflow programming?",low
+"What is a reactive programming?",low
+"What is a functional reactive programming (FRP)?",low
+"What is a data parallel programming?",low
+"What is a task parallel programming?",low
+"What is a SIMD?",low
+"What is a MIMD?",low
+"What is a Flynn's taxonomy?",low
+"What is a Amdahl's law?",low
+"What is a Gustafson's law?",low
+"What is a scalability analysis?",low
+"What is a performance analysis?",low
+"What is a bottleneck analysis?",low
+"What is a profiling?",low
+"What is a tracing?",low
+"What is a benchmarking?",low
+"What is a microbenchmark?",low
+"What is a macrobenchmark?",low
+"What is a workload?",low
+"What is a synthetic workload?",low
+"What is a real workload?",low
+"What is a performance counter?",low
+"What is a hardware performance counter?",low
+"What is a software performance counter?",low
+"What is a performance monitoring unit (PMU)?",low
+"What is a time-to-live (TTL)?",low
+"What is a cache eviction policy?",low
+"What is a Least Recently Used (LRU) policy?",low
+"What is a Least Frequently Used (LFU) policy?",low
+"What is a First-In, First-Out (FIFO) policy?",low
+"What is a Random Replacement (RR) policy?",low
+"What is a write-through cache?",low
+"What is a write-back cache?",low
+"What is a write-around cache?",low
+"What is a cache coherence?",low
+"What is a MESI protocol?",low
+"What is a cache prefetching?",low
+"What is a hardware prefetching?",low
+"What is a software prefetching?",low
+"What is a branch prediction?",low
+"What is a static branch prediction?",low
+"What is a dynamic branch prediction?",low
+"What is a branch target buffer?",low
+"What is a speculative execution?",low
+"What is an out-of-order execution?",low
+"What is a register renaming?",low
+"What is a micro-operation?",low
+"What is a superscalar processor?",low
+"What is a very long instruction word (VLIW) processor?",low
+"What is a multi-core processor?",low
+"What is a many-core processor?",low
+"What is a heterogeneous computing?",low
+"What is a GPGPU?",low
+"What is a OpenCL?",low
+"What is a CUDA?",low
+"What is a SYCL?",low
+"What is a data center?",low
+"What is a server rack?",low
+"What is a blade server?",low
+"What is a storage area network (SAN)?",low
+"What is a network attached storage (NAS)?",low
+"What is a direct attached storage (DAS)?",low
+"What is a RAID?",low
+"What are the different RAID levels?",low
+"What is a RAID 0?",low
+"What is a RAID 1?",low
+"What is a RAID 5?",low
+"What is a RAID 6?",low
+"What is a RAID 10?",low
+"What is a hot spare?",low
+"What is a cold spare?",low
+"What is a load balancing algorithm?",low
+"What is a round-robin algorithm?",low
+"What is a weighted round-robin algorithm?",low
+"What is a least connections algorithm?",low
+"What is a least response time algorithm?",low
+"What is a source IP hash algorithm?",low
+"What is a sticky session?",low
+"What is a session affinity?",low
+"What is a health check?",low
+"What is an active health check?",low
+"What is a passive health check?",low
+"What is a failover?",low
+"What is an automatic failover?",low
+"What is a manual failover?",low
+"What is a graceful degradation?",low
+"What is a circuit breaker pattern?",low
+"What is a bulkhead pattern?",low
+"What is a retry pattern?",low
+"What is an exponential backoff?",low
+"What is a jitter?",low
+"What is a timeout pattern?",low
+"What is a fallback pattern?",low
+"What is a rate limiting?",low
+"What is a throttling?",low
+"What is a token bucket algorithm?",low
+"What is a leaky bucket algorithm?",low
+"What is a fixed window counter algorithm?",low
+"What is a sliding window log algorithm?",low
+"What is a sliding window counter algorithm?",low
+"What is a distributed rate limiting?",low
+"What is a consistent hashing?",low
+"What is a rendezvous hashing?",low
+"What is a bloom filter?",low
+"What is a count-min sketch?",low
+"What is a hyperloglog?",low
+"What is a locality-sensitive hashing (LSH)?",low
+"What is a geohash?",low
+"What is a quadtree?",low
+"What is a k-d tree?",low
+s"What is a R-tree?",low
+"What is a spatial index?",low
+"What is a full-text search?",low
+"What is an inverted index?",low
+"What is a term frequency-inverse document frequency (TF-IDF)?",low
+"What is a stemming?",low
+"What is a lemmatization?",low
+"What is a stop word?",low
+"What is a n-gram?",low
+"What is a bag-of-words model?",low
+"What is a word embedding?",low
+"What is a Word2Vec?",low
+"What is a GloVe?",low
+"What is a fastText?",low
+"What is a transformer model?",low
+"What is a BERT?",low
+"What is a GPT?",low
+"What is a large language model (LLM)?",low
+"What is a prompt engineering?",low
+"What is a fine-tuning?",low
+"What is a transfer learning?",low
+"What is a zero-shot learning?",low
+"What is a one-shot learning?",low
+"What is a few-shot learning?",low
+"What is a generative AI?",low
+"What is a variational autoencoder (VAE)?",low
+"What is a generative adversarial network (GAN)?",low
+"What is a diffusion model?",low
+"What is a reinforcement learning?",low
+"What is a Q-learning?",low
+"What is a deep Q-network (DQN)?",low
+"What is a policy gradient method?",low
+"What is an actor-critic method?",low
+"What is a Markov decision process (MDP)?",low
+"What is a state in MDP?",low
+"What is an action in MDP?",low
+"What is a reward in MDP?",low
+"What is a policy in MDP?",low
+"What is a value function in MDP?",low
+"What is a model-based reinforcement learning?",low
+"What is a model-free reinforcement learning?",low
+"What is an exploration-exploitation tradeoff?",low
+"What is an epsilon-greedy strategy?",low
+"What is a upper confidence bound (UCB) strategy?",low
+"What is a Thompson sampling?",low
+"What is a multi-armed bandit problem?",low
+"What is a recommender system?",low
+"What is a collaborative filtering?",low
+"What is a content-based filtering?",low
+"What is a hybrid recommender system?",low
+"What is a matrix factorization?",low
+"What is a singular value decomposition (SVD)?",low
+"What is an alternating least squares (ALS)?",low
+"What is a cold start problem?",low
+"What is a data sparsity problem?",low
+"What is a scalability problem in recommender systems?",low
+"What is an evaluation metric for recommender systems?",low
+"What is a mean average precision (MAP)?",low
+"What is a normalized discounted cumulative gain (NDCG)?",low
+"What is a coverage?",low
+"What is a diversity?",low
+"What is a serendipity?",low
+"What is a novelty?",low
+"What is a user profiling?",low
+"What is an item profiling?",low
+"What is a feature hashing?",low
+"What is a one-hot encoding?",low
+"What is a label encoding?",low
+"What is a target encoding?",low
+"What is a feature scaling?",low
+"What is a standardization?",low
+"What is a normalization?",low
+"What is a robust scaling?",low
+"What is a feature transformation?",low
+"What is a log transformation?",low
+"What is a box-cox transformation?",low
+"What is a feature interaction?",low
+"What is a polynomial feature?",low
+"What is a feature crossing?",low
+"What is a feature learning?",low
+"What is an autoencoder?",low
+"What is a restricted Boltzmann machine (RBM)?",low
+"What is a deep belief network (DBN)?",low
+"What is a convolutional neural network (CNN)?",low
+"What is a convolution layer?",low
+"What is a pooling layer?",low
+"What is a fully connected layer?",low
+"What is an activation function?",low
+"What is a sigmoid function?",low
+"What is a tanh function?",low
+"What is a ReLU function?",low
+"What is a leaky ReLU function?",low
+"What is a softmax function?",low
+"What is a loss function?",low
+"What is a mean squared error (MSE)?",low
+"What is a cross-entropy loss?",low
+"What is a hinge loss?",low
+"What is an optimization algorithm?",low
+"What is a gradient descent?",low
+"What is a stochastic gradient descent (SGD)?",low
+"What is a mini-batch gradient descent?",low
+"What is a momentum?",low
+"What is a Nesterov accelerated gradient?",low
+"What is an AdaGrad?",low
+"What is an RMSprop?",low
+"What is an Adam?",low
+"What is a learning rate?",low
+"What is a learning rate schedule?",low
+"What is a batch normalization?",low
+"What is a layer normalization?",low
+"What is a dropout?",low
+"What is a regularization?",low
+"What is a L1 regularization?",low
+"What is a L2 regularization?",low
+"What is an elastic net regularization?",low
+"What is an early stopping?",low
+"What is a data augmentation?",low
+"What is a transfer learning?",low
+"What is a pre-trained model?",low
+"What is a fine-tuning?",low
+"What is a feature extraction?",low
+"What is a recurrent neural network (RNN)?",low
+"What is a vanishing gradient problem?",low
+"What is an exploding gradient problem?",low
+"What is a long short-term memory (LSTM)?",low
+"What is a gated recurrent unit (GRU)?",low
+"What is a sequence-to-sequence model?",low
+"What is an encoder-decoder architecture?",low
+"What is an attention mechanism?",low
+"What is a self-attention?",low
+"What is a multi-head attention?",low
+"What is a transformer architecture?",low
+"What is a positional encoding?",low
+"What is a feed-forward network?",low
+"What is a residual connection?",low
+"What is a skip connection?",low
+"What is a graph neural network (GNN)?",low
+"What is a message passing in GNN?",low
+"What is a graph convolution network (GCN)?",low
+"What is a graph attention network (GAT)?",low
+"What is a graph isomorphism network (GIN)?",low
+"What is a node embedding?",low
+"What is a graph embedding?",low
+"What is a Node2Vec?",low
+"What is a DeepWalk?",low
+"What is a LINE?",low
+"What is a time series analysis?",low
+"What is a trend?",low
+"What is a seasonality?",low
+"What is a cycle?",low
+"What is a stationary time series?",low
+"What is a non-stationary time series?",low
+"What is a differencing?",low
+"What is a moving average?",low
+"What is an exponential smoothing?",low
+"What is a Holt-Winters method?",low
+"What is an autoregressive (AR) model?",low
+"What is a moving average (MA) model?",low
+"What is an autoregressive moving average (ARMA) model?",low
+"What is an autoregressive integrated moving average (ARIMA) model?",low
+"What is a seasonal ARIMA (SARIMA) model?",low
+"What is an autocorrelation function (ACF)?",low
+"What is a partial autocorrelation function (PACF)?",low
+"What is a cross-correlation function (CCF)?",low
+"What is a Granger causality test?",low
+"What is a vector autoregression (VAR) model?",low
+"What is a state-space model?",low
+"What is a Kalman filter?",low
+"What is a particle filter?",low
+"What is a hidden Markov model (HMM)?",low
+"What is a conditional random field (CRF)?",low
+"What is a survival analysis?",low
+"What is a hazard function?",low
+"What is a survival function?",low
+"What is a Kaplan-Meier estimator?",low
+"What is a Cox proportional hazards model?",low
+"What is a censored data?",low
+"What is a right-censored data?",low
+"What is a left-censored data?",low
+"What is an interval-censored data?",low
+"What is an A/B testing?",low
+"What is a hypothesis testing?",low
+"What is a null hypothesis?",low
+"What is an alternative hypothesis?",low
+"What is a p-value?",low
+"What is a significance level?",low
+"What is a confidence interval?",low
+"What is a statistical power?",low
+"What is a Type I error?",low
+"What is a Type II error?",low
+"What is a t-test?",low
+"What is a chi-squared test?",low
+"What is an ANOVA?",low
+"What is a regression analysis?",low
+"What is a correlation analysis?",low
+"What is a Pearson correlation coefficient?",low
+"What is a Spearman rank correlation coefficient?",low
+"What is a Kendall rank correlation coefficient?",low
+"What is a covariance?",low
+"What is a probability distribution?",low
+"What is a probability density function (PDF)?",low
+"What is a cumulative distribution function (CDF)?",low
+"What is a normal distribution?",low
+"What is a standard normal distribution?",low
+"What is a binomial distribution?",low
+"What is a Poisson distribution?",low
+"What is a uniform distribution?",low
+"What is an exponential distribution?",low
+"What is a gamma distribution?",low
+"What is a beta distribution?",low
+"What is a chi-squared distribution?",low
+"What is a t-distribution?",low
+"What is an F-distribution?",low
+"What is a central limit theorem?",low
+"What is a law of large numbers?",low
+"What is a Bayes' theorem?",low
+"What is a Bayesian inference?",low
+"What is a prior distribution?",low
+"What is a posterior distribution?",low
+"What is a likelihood function?",low
+"What is a marginal likelihood?",low
+"What is a maximum likelihood estimation (MLE)?",low
+"What is a maximum a posteriori (MAP) estimation?",low
+"What is a Markov chain Monte Carlo (MCMC)?",low
+"What is a Metropolis-Hastings algorithm?",low
+"What is a Gibbs sampling?",low
+"What is a variational inference?",low
+"What is a Monte Carlo simulation?",low
+"What is a bootstrap method?",low
+"What is a jackknife method?",low
+"What is a permutation test?",low
+"What is a statistical modeling?",low
+"What is a linear model?",low
+"What is a generalized linear model (GLM)?",low
+"What is a logistic regression model?",low
+"What is a Poisson regression model?",low
+"What is a mixed-effects model?",low
+"What is a hierarchical model?",low
+"What is a time series model?",low
+"What is a survival model?",low
+"What is a causal inference?",low
+"What is a randomized controlled trial (RCT)?",low
+"What is an observational study?",low
+"What is a confounding variable?",low
+"What is a selection bias?",low
+"What is an instrumental variable?",low
+"What is a regression discontinuity design?",low
+"What is a difference-in-differences method?",low
+"What is a propensity score matching?",low
+"What is a causal graph?",low
+"What is a do-calculus?",low
+"What is a counterfactual?",low
+"What is an average treatment effect (ATE)?",low
+"What is a conditional average treatment effect (CATE)?",low
+"What is an uplift modeling?",low
+"What is an experimental design?",low
+"What is a full factorial design?",low
+"What is a fractional factorial design?",low
+"What is a randomized block design?",low
+"What is a Latin square design?",low
+"What is a response surface methodology?",low
+"What is an optimization?",low
+"What is a linear programming?",low
+"What is a quadratic programming?",low
+"What is a convex optimization?",low
+"What is a non-convex optimization?",low
+"What is a gradient descent method?",low
+"What is a Newton's method?",low
+"What is a quasi-Newton method?",low
+"What is a conjugate gradient method?",low
+"What is a genetic algorithm?",low
+"What is a simulated annealing?",low
+"What is a particle swarm optimization?",low
+"What is a ant colony optimization?",low
+"What is a numerical analysis?",low
+"What is a floating-point arithmetic?",low
+"What is a numerical stability?",low
+"What is a condition number?",low
+"What is an error analysis?",low
+"What is a root-finding algorithm?",low
+"What is a bisection method?",low
+"What is a Newton-Raphson method?",low
+"What is a secant method?",low
+"What is a numerical integration?",low
+"What is a trapezoidal rule?",low
+"What is a Simpson's rule?",low
+"What is a Monte Carlo integration?",low
+"What is a numerical differentiation?",low
+"What is a finite difference method?",low
+"What is a system of linear equations?",low
+"What is a Gaussian elimination?",low
+"What is a LU decomposition?",low
+"What is a QR decomposition?",low
+"What is a Cholesky decomposition?",low
+"What is a singular value decomposition (SVD)?",low
+"What is an eigenvalue problem?",low
+"What is a power iteration method?",low
+"What is a QR algorithm?",low
+"What is an ordinary differential equation (ODE)?",low
+"What is a partial differential equation (PDE)?",low
+"What is a Euler's method?",low
+"What is a Runge-Kutta method?",low
+"What is a finite element method (FEM)?",low
+"What is a finite volume method (FVM)?",low
+"What is a spectral method?",low
+"What is a Fourier transform?",low
+"What is a fast Fourier transform (FFT)?",low
+"What is a wavelet transform?",low
+"What is a signal processing?",low
+"What is a filter?",low
+"What is a low-pass filter?",low
+"What is a high-pass filter?",low
+"What is a band-pass filter?",low
+"What is a band-stop filter?",low
+"What is a finite impulse response (FIR) filter?",low
+"What is an infinite impulse response (IIR) filter?",low
+"What is a convolution?",low
+"What is a correlation?",low
+"What is a power spectral density?",low
+"What is a information theory?",low
+"What is an entropy?",low
+"What is a mutual information?",low
+"What is a Kullback-Leibler divergence?",low
+"What is a channel capacity?",low
+"What is a source coding?",low
+"What is a Huffman coding?",low
+"What is an arithmetic coding?",low
+"What is a channel coding?",low
+"What is an error detection code?",low
+"What is an error correction code?",low
+"What is a parity check?",low
+"What is a checksum?",low
+"What is a cyclic redundancy check (CRC)?",low
+"What is a Hamming code?",low
+"What is a Reed-Solomon code?",low
+"What is a turbo code?",low
+"What is a low-density parity-check (LDPC) code?",low
+"What is a polar code?",low
+"What is a cryptography?",low
+"What is a symmetric-key cryptography?",low
+"What is a public-key cryptography?",low
+"What is a cryptographic protocol?",low
+"What is a key management?",low
+"What is a digital forensics?",low
+"What is a data recovery?",low
+"What is a steganography?",low
+"What is a watermarking?",low
+"What is a computer graphics?",low
+"What is a computational geometry?",low
+"What is a convex hull?",low
+"What is a Delaunay triangulation?",low
+"What is a Voronoi diagram?",low
+"What is a human-computer interaction (HCI)?",low
+"What is a user-centered design?",low
+"What is a usability engineering?",low
+"What is a software engineering?",low
+"What is a requirements engineering?",low
+"What is a software design?",low
+"What is a software testing?",low
+"What is a software maintenance?",low
+"What is a software configuration management?",low
+"What is a software quality assurance?",low
+"What is a software project management?",low
+"What is a software process model?",low
+"What is a capability maturity model (CMM)?",low
+"What is a personal software process (PSP)?",low
+"What is a team software process (TSP)?",low
+"What is a cleanroom software engineering?",low
+"What is a formal methods in software engineering?",low
+"What is a component-based software engineering?",low
+"What is a service-oriented software engineering?",low
+"What is a aspect-oriented software development?",low
+"What is a model-driven engineering?",low
+"What is a agile software development?",low
+"What is a extreme programming (XP)?",low
+"What is a feature-driven development (FDD)?",low
+"What is a lean software development?",low
+"What is a Kanban?",low
+"What is a Scrum?",low
+"What is a product backlog?",low
+"What is a sprint backlog?",low
+"What is a sprint planning?",low
+"What is a daily scrum?",low
+"What is a sprint review?",low
+"What is a sprint retrospective?",low
+"What is a product owner?",low
+"What is a scrum master?",low
+"What is a development team?",low
+"What is a user story?",low
+"What is an epic?",low
+"What is a theme?",low
+"What is a story point?",low
+"What is a velocity?",low
+"What is a burndown chart?",low
+"What is a burnup chart?",low
+"What is a pair programming?",low
+"What is a refactoring?",low
+"What is a continuous integration?",low
+"What is a continuous delivery?",low
+"What is a continuous deployment?",low
+"What is a test-driven development (TDD)?",low
+"What is a behavior-driven development (BDD)?",low
+"What is a acceptance test-driven development (ATDD)?",low
+"What is a specification by example?",low
+"What is a Gherkin language?",low
+"What is a Cucumber?",low
+"What is a domain-specific language (DSL)?",low
+"What is a code generation?",low
+"What is a compiler construction?",low
+"What is a lexical analysis?",low
+"What is a parsing?",low
+"What is a semantic analysis?",low
+"What is an intermediate representation?",low
+"What is a code optimization?",low
+"What is a register allocation?",low
+"What is a garbage collection algorithm?",low
+"What is a mark-and-sweep algorithm?",low
+"What is a copying collector?",low
+"What is a generational collector?",low
+"What is a reference counting?",low
+"What is a concurrent garbage collection?",low
+"What is a parallel garbage collection?",low
+"What is a real-time garbage collection?",low
+"What is a virtual machine implementation?",low
+"What is a just-in-time (JIT) compilation?",low
+"What is an ahead-of-time (AOT) compilation?",low
+"What is a dynamic compilation?",low
+"What is an adaptive optimization?",low
+"What is a type system design?",low
+"What is a language design?",low
+"What is a programming language theory?",low
+"What is a formal semantics?",low
+"What is an operational semantics?",low
+"What is a denotational semantics?",low
+"What is an axiomatic semantics?",low
+"What is a type theory?",low
+"What is a category theory in programming?",low
+"What is a lambda calculus?",low
+"What is a simply typed lambda calculus?",low
+"What is a polymorphic lambda calculus?",low
+"What is a system F?",low
+"What is a calculus of constructions?",low
+"What is a dependent type theory?",low
+"What is a logic and computation?",low
+"What is a computability theory?",low
+"What is a complexity theory?",low
+"What is an automata theory?",low
+"What is a formal language theory?",low
+"What is a Chomsky hierarchy?",low
+"What is a regular language?",low
+"What is a context-free language?",low
+"What is a context-sensitive language?",low
+"What is a recursively enumerable language?",low
+"What is a finite automaton?",low
+"What is a pushdown automaton?",low
+"What is a linear bounded automaton?",low
+"What is a Turing machine?",low
+"What is a Church-Turing thesis?",low
+"What is a undecidable problem?",low
+"What is a halting problem?",low
+"What is a NP-complete problem?",low
+"What is a PSPACE-complete problem?",low
+"What is an EXPTIME-complete problem?",low
+"What is a complexity class?",low
+"What is a P class?",low
+"What is a NP class?",low
+"What is a co-NP class?",low
+"What is a PSPACE class?",low
+"What is an EXPTIME class?",low
+"What is a reduction?",low
+"What is a polynomial-time reduction?",low
+"What is a Cook reduction?",low
+"What is a Karp reduction?",low
+"What is a SAT problem?",low
+"What is a 3-SAT problem?",low
+"What is a clique problem?",low
+"What is a vertex cover problem?",low
+"What is a set cover problem?",low
+"What is a traveling salesman problem (TSP)?",low
+"What is a knapsack problem?",low
+"What is a subset sum problem?",low
+"What is a graph coloring problem?",low
+"What is a Hamiltonian path problem?",low
+"What is an algorithm design?",low
+"What is a brute-force search?",low
+"What is a backtracking algorithm?",low
+"What is a dynamic programming algorithm?",low
+"What is a greedy algorithm?",low
+"What is a divide-and-conquer algorithm?",low
+"What is a randomized algorithm?",low
+"What is a approximation algorithm?",low
+"What is a online algorithm?",low
+"What is a parallel algorithm?",low
+"What is a distributed algorithm?",low
+"What is a data structures?",low
+"What is an abstract data type (ADT)?",low
+"What is a list ADT?",low
+"What is a stack ADT?",low
+"What is a queue ADT?",low
+"What is a deque ADT?",low
+"What is a priority queue ADT?",low
+"What is a map ADT?",low
+"What is a dictionary ADT?",low
+"What is a set ADT?",low
+"What is a tree ADT?",low
+"What is a graph ADT?",low
+"What is an array implementation?",low
+"What is a linked list implementation?",low
+"What is a singly linked list?",low
+"What is a doubly linked list?",low
+"What is a circular linked list?",low
+"What is a skip list?",low
+"What is a hash table implementation?",low
+"What is a hash function?",low
+"What is a collision resolution strategy?",low
+"What is a separate chaining?",low
+"What is an open addressing?",low
+"What is a linear probing?",low
+"What is a quadratic probing?",low
+"What is a double hashing?",low
+"What is a cuckoo hashing?",low
+"What is a universal hashing?",low
+"What is a perfect hashing?",low
+"What is a binary tree implementation?",low
+"What is a binary search tree implementation?",low
+"What is a self-balancing binary search tree?",low
+"What is an AVL tree implementation?",low
+"What is a red-black tree implementation?",low
+"What is a B-tree implementation?",low
+"What is a B+ tree implementation?",low
+"What is a heap implementation?",low
+"What is a binary heap?",low
+"What is a binomial heap?",low
+"What is a Fibonacci heap?",low
+"What is a trie implementation?",low
+"What is a suffix tree?",low
+"What is a suffix array?",low
+"What is a disjoint-set data structure?",low
+"What is a union-find data structure?",low
+"What is a path compression?",low
+"What is a union by rank/size?",low
+"What is a segment tree?",low
+"What is a Fenwick tree (Binary Indexed Tree)?",low
+"What is a range tree?",low
+"What is a k-d tree?",low
+"What is a quadtree?",low
+"What is an octree?",low
+"What is a R-tree?",low
+"What is a bloom filter?",low
+"What is a count-min sketch?",low
+"What is a hyperloglog?",low
+"What is a graph implementation?",low
+"What is an adjacency matrix representation?",low
+"What is an adjacency list representation?",low
+"What is an incidence matrix representation?",low
+"What is an incidence list representation?",low
+"What is a graph traversal algorithm?",low
+"What is a breadth-first search (BFS) algorithm?",low
+"What is a depth-first search (DFS) algorithm?",low
+"What is a topological sorting algorithm?",low
+"What is a shortest path algorithm?",low
+"What is a Dijkstra's algorithm?",low
+"What is a Bellman-Ford algorithm?",low
+"What is a Floyd-Warshall algorithm?",low
+"What is a A* search algorithm?",low
+"What is a minimum spanning tree (MST) algorithm?",low
+"What is a Kruskal's algorithm?",low
+"What is a Prim's algorithm?",low
+"What is a maximum flow algorithm?",low
+"What is a Ford-Fulkerson algorithm?",low
+"What is an Edmonds-Karp algorithm?",low
+"What is a Dinic's algorithm?",low
+"What is a matching in a graph?",low
+"What is a maximum bipartite matching?",low
+"What is a Hopcroft-Karp algorithm?",low
+"What is a strongly connected components (SCC) algorithm?",low
+"What is a Kosaraju's algorithm?",low
+"What is a Tarjan's algorithm?",low
+"What is a bridge in a graph?",low
+"What is an articulation point in a graph?",low
+"What is a graph coloring algorithm?",low
+"What is a planar graph?",low
+"What is a graph drawing?",low
+"What is a network flow analysis?",low
+"What is a computational geometry algorithm?",low
+"What is a convex hull algorithm?",low
+"What is a Graham scan?",low
+"What is a Jarvis march?",low
+"What is a closest pair of points problem?",low
+"What is a line segment intersection problem?",low
+"What is a polygon triangulation?",low
+"What is a string matching algorithm?",low
+"What is a naive string matching algorithm?",low
+"What is a Rabin-Karp algorithm?",low
+"What is a Knuth-Morris-Pratt (KMP) algorithm?",low
+"What is a Boyer-Moore algorithm?",low
+"What is a longest common subsequence problem?",low
+"What is a longest common substring problem?",low
+"What is an edit distance problem?",low
+"What is a sequence alignment?",low
+"What is a Needleman-Wunsch algorithm?",low
+"What is a Smith-Waterman algorithm?",low
+"What is a data compression algorithm?",low
+"What is a lossless compression?",low
+"What is a lossy compression?",low
+"What is a run-length encoding (RLE)?",low
+"What is a Huffman coding?",low
+"What is a Lempel-Ziv (LZ) family of algorithms?",low
+"What is a LZ77?",low
+"What is a LZ78?",low
+"What is a LZW?",low
+"What is a DEFLATE?",low
+"What is a JPEG?",low
+"What is a MPEG?",low
+"What is a MP3?",low
+"What is a cryptography algorithm?",low
+"What is a symmetric-key algorithm?",low
+"What is a public-key algorithm?",low
+"What is a DES?",low
+"What is a 3DES?",low
+"What is an AES?",low
+"What is a Blowfish?",low
+"What is a Twofish?",low
+"What is a RC4?",low
+"What is a RSA?",low
+"What is a Diffie-Hellman?",low
+"What is an elliptic curve cryptography (ECC)?",low
+"What is a digital signature algorithm (DSA)?",low
+"What is a SHA-1?",low
+"What is a SHA-256?",low
+"What is a MD5?",low
+"What is a HMAC?",low
+"What is a random number generation?",low
+"What is a pseudorandom number generator (PRNG)?",low
+"What is a cryptographically secure PRNG (CSPRNG)?",low
+"What is a hardware random number generator (HRNG)?",low
+"How would you implement a queue using two stacks?",high
+"Explain the trade-offs between an array and a linked list for implementing a dynamic-size collection.",high
+"How would you balance a binary search tree? Describe the rotations in an AVL tree.",high
+"Design a data structure that supports insert, delete, and getRandom in O(1) time.",high
+"Explain the concept of a B-tree and discuss why it is preferred over a binary search tree for database indexing.",high
+"How would you implement a min-heap in Python? Explain the heapify, insert, and extract-min operations.",high
+"Describe the concept of a trie and its common applications, such as autocomplete.",high
+"How would you implement a hash table with collision resolution using both separate chaining and open addressing?",high
+"Explain the concept of a graph and its different representations (adjacency matrix vs. adjacency list). Discuss the trade-offs.",high
+"How do you perform a depth-first search (DFS) and breadth-first search (BFS) on a graph? Compare their use cases.",high
+"Describe the trade-offs between different sorting algorithms like Quicksort, Mergesort, and Heapsort.",high
+"How would you approach the problem of finding the shortest path between two nodes in a weighted graph?",high
+"Explain the concept of dynamic programming and how it can be applied to solve the Longest Increasing Subsequence problem.",high
+"Design a system for a ride-sharing service. Which data structure would you use to match drivers with riders in real-time?",high
+"What data structure would you use to efficiently recommend products to users based on their past behavior?",high
+"You are building a spell checker. What data structures would you use to store and search for valid words efficiently?",high
+"Explain the concept of a disjoint-set data structure (Union-Find) and its applications.",high
+"How would you implement a suffix tree and what are its primary applications in string processing?",high
+"Describe quadtrees and their most common applications, particularly in spatial indexing.",high
+"Explain how a hash map and a doubly-linked list can be combined to implement an LRU (Least Recently Used) cache with O(1) complexity for get and put operations.",high
+"Compare and contrast linear and non-linear data structures, providing examples and use cases for each.",high
+"How would you design a data structure to handle real-time area queries and updates for a strategy game map?",high
+"Explain the concept of a persistent data structure and provide an example of its use.",high
+"How does a Fibonacci heap differ from a binary heap, and what are the performance advantages for certain graph algorithms?",high
+"Design a data structure to store a large dictionary for a spell checker that also supports suggesting corrections for misspelled words.",high
+"Explain the internal workings of a skip list and compare its performance to a balanced binary search tree.",high
+"How would you find the k-th smallest element in an unsorted array in linear time on average?",high
+"Solve the 'Trapping Rain Water' problem and analyze the time and space complexity of your solution.",high
+"Explain the Boyer-Moore majority vote algorithm and how it finds the majority element in O(n) time and O(1) space.",high
+"How would you find the longest substring without repeating characters in a given string?",high
+"Design an algorithm to merge k sorted lists into a single sorted list efficiently.",high
+"Explain the concept of topological sorting and provide a real-world application.",high
+"How would you detect a cycle in a directed graph? What about in an undirected graph?",high
+"Describe an algorithm to find all strongly connected components in a directed graph.",high
+"Compare Dijkstra's algorithm and the Bellman-Ford algorithm for finding the shortest path. When would you use one over the other?",high
+"Solve the N-Queens problem using backtracking. Explain your approach.",high
+"How would you implement a function to generate all permutations of a given string?",high
+"Explain the difference between a greedy approach and dynamic programming using the coin change problem as an example.",high
+"Design an algorithm to find the maximum sum subarray in a given array (Kadane's Algorithm).",high
+"How would you solve the word break problem using dynamic programming?",high
+"Explain the concept of bit manipulation and use it to find the single number in an array where every other number appears twice.",high
+"How would you implement a function to reverse a linked list, both iteratively and recursively?",high
+"Design an algorithm to find the intersection point of two singly linked lists.",high
+"How would you serialize and deserialize a binary tree?",high
+"Write a function to validate if a given binary tree is a valid Binary Search Tree.",high
+"Find the lowest common ancestor (LCA) of two nodes in a binary tree.",high
+"Explain the difference between procedural programming and object-oriented programming.",high
+"What is the 'diamond problem' in multiple inheritance and how is it addressed in languages like C++ and Java?",high
+"Explain the SOLID principles of object-oriented design with a practical example for each principle.",high
+"Compare composition over inheritance as a design principle. Provide a scenario where one is clearly superior to the other.",high
+"How is an abstract class different from an interface? Describe a situation where you would choose one over the other.",high
+"Explain the concept of 'coupling' and 'cohesion' in software design and why high cohesion and loose coupling are desirable.",high
+"Describe the Factory and Singleton design patterns and provide a use case for each.",high
+"How does a virtual function enable runtime polymorphism in C++?",high
+"Explain the 'Rule of Five' in C++ and why it's important for resource management.",high
+"Compare the use cases for std::unique_ptr, std::shared_ptr, and std::weak_ptr in modern C++.",high
+"What is the difference between a clustered and a non-clustered index in a database? Discuss the performance implications.",high
+"Explain the different transaction isolation levels in SQL and the types of concurrency problems they prevent (e.g., dirty reads, phantom reads).",high
+"You have a query that is running slowly. Describe the steps you would take to diagnose and optimize it, mentioning tools like EXPLAIN.",high
+"What is database sharding? Compare it with partitioning and replication, and explain when you would use each strategy.",high
+"Write an SQL query to find the second-highest salary from an Employee table. Then, write a more general query to find the Nth highest salary.",high
+"Explain what window functions are in SQL and provide a practical example, such as calculating a running total or ranking rows within a partition.",high
+"How would you design a database schema for a simple social media platform, including users, posts, comments, and likes?",high
+"Discuss the trade-offs of using database normalization versus denormalization for performance.",high
+"Explain the difference between git merge and git rebase. Describe a workflow where rebase is preferred and one where merge is safer.",high
+"You have accidentally committed sensitive data to a public repository. What are the steps to completely remove it from the project's history?",high
+"Describe the Gitflow branching model. What are the roles of the main, develop, feature, release, and hotfix branches?",high
+"What is git bisect and how would you use it to efficiently find the commit that introduced a bug?",high
+"How do you resolve a complex merge conflict in Git, especially when binary files are involved?",high
+"Explain the purpose of git stash and describe a scenario where it is particularly useful.",high
+"What is a detached HEAD state in Git? How can you get into it, and how do you get out of it?",high
+"How would you squash the last N commits into a single commit? What are the potential dangers of doing this?",high
+"Explain how a Cross-Site Scripting (XSS) attack works and describe different mitigation strategies, including input validation and output encoding.",high
+"How does an SQL Injection attack work? How can you prevent it using prepared statements or parameterized queries?",high
+"Describe the principle of 'least privilege' and how you would apply it when configuring user permissions in a system.",high
+"Explain the TLS/SSL handshake process and how it establishes a secure communication channel.",high
+"What is a Content Security Policy (CSP) and how does it help prevent XSS attacks?",high
+"Design a secure user authentication and session management system. Discuss password hashing, salting, and protection against brute-force attacks.",high
+"What is the difference between symmetric and asymmetric encryption? Provide a use case for each.",high
+"Explain what a CSRF (Cross-Site Request Forgery) attack is and how anti-CSRF tokens work to prevent it.",high
+"How would you design a URL shortening service like TinyURL? Discuss the API design, data model, and strategy for generating short URLs.",high
+"How would you design a real-time chat application like WhatsApp? Focus on the architecture for message delivery, online presence, and storage.",high
+"Design the news feed for a social media platform like Facebook. Compare the fan-out-on-write (push) vs. fan-out-on-read (pull) approaches.",high
+"How would you design a video streaming service like YouTube? Consider video uploading, encoding, storage, and delivery via CDN.",high
+"Design a ride-hailing service like Uber. Focus on the system components for location tracking, driver-rider matching, and payment processing.",high
+"How would you design a distributed key-value store? Discuss hashing, replication, and consistency models (e.g., eventual vs. strong).",high
+"Design a web crawler. How would you handle politeness (robots.txt), duplicate content detection, and scaling the crawling process?",high
+"How would you design a system to handle 10 million daily active users for a photo-sharing app? Estimate the storage, bandwidth, and compute requirements.",high
+"Explain the Python Global Interpreter Lock (GIL) and its impact on multi-threaded applications. How can you achieve true parallelism in Python?",high
+"What are metaclasses in Python, and what is a practical use case for them?",high
+"How does garbage collection work in CPython? Explain reference counting and the cyclic garbage collector.",high
+"Write a Python decorator that logs the execution time of a function.",high
+"Explain the difference between a process and a thread in Python and when you would use the multiprocessing module versus the threading module.",high
+"What is the 'Rule of Five' in C++ and why is it crucial for correct resource management?",high
+"Explain how smart pointers (unique_ptr, shared_ptr, weak_ptr) help prevent memory leaks in C++.",high
+"What is RAII (Resource Acquisition Is Initialization) in C++? Provide a code example.",high
+"Describe a situation where you would need to write a custom memory allocator in C++.",high
+"Explain template metaprogramming in C++ and give an example of its use.",high
+"Explain the JavaScript event loop, including the roles of the call stack, message queue, and microtask queue.",high
+"What is a closure in JavaScript? Provide a practical example, such as creating private variables.",high
+"Compare Promises and async/await for handling asynchronous operations in JavaScript. Write equivalent code snippets for both.",high
+"What is 'prototypal inheritance' in JavaScript and how does it differ from classical inheritance?",high
+"How would you debounce or throttle a function in JavaScript? Provide a use case for each.",high
+"Explain the bias-variance tradeoff in machine learning. How does it relate to model complexity, overfitting, and underfitting?",high
+"You are given a highly imbalanced dataset for a classification task. Describe the techniques you would use to train a reliable model.",high
+"Compare L1 (Lasso) and L2 (Ridge) regularization. What effect do they have on model coefficients, and when would you prefer one over the other?",high
+"How does a Random Forest model work? Explain why it is often more robust against overfitting than a single decision tree.",high
+"Describe the process of A/B testing from hypothesis formulation to statistical analysis of the results.",high
+"What is dimensionality reduction? Compare a feature selection method like 'Recursive Feature Elimination' with a feature extraction method like PCA.",high
+"Your machine learning model's performance is degrading in production. What are the potential causes (e.g., data drift, concept drift) and how would you diagnose and address the issue?",high
+"Explain how a gradient boosting algorithm like XGBoost works, including its key optimizations over traditional gradient boosting.",high
+"Design a system to handle peak traffic during a flash sale on an e-commerce platform.",high
+"Your photo-sharing app needs to support 10x more users overnight. How would you re-architect it to scale?",high
+"Our database is a bottleneck. How can you scale a database to handle millions of requests per second?",high
+"The application isn’t fault-tolerant. How would you improve its design to handle server failures gracefully?",high
+"Compare and contrast different strategies for caching, such as cache-aside, write-through, and write-back.",high
+"Design a distributed logging and metrics collection system for a large-scale microservices architecture.",high
+"How would you design a distributed task queue system like Celery?",high
+"Explain how consistent hashing works and why it is useful for distributed caching systems.",high
+"Design an autocomplete feature for a search engine. Discuss the data structures and algorithms for storing and retrieving suggestions efficiently.",high
+"How would you build a system to find the top K trending topics on a social media platform in real-time?",high
+"Discuss the architectural considerations for building a multi-tenant SaaS application.",high
+"Explain how you would implement rate limiting for an API. Compare different algorithms like token bucket and leaky bucket.",high
+"Design a system for processing and analyzing a massive stream of IoT sensor data.",high
+"How would you design a system to prevent duplicate transactions in a distributed payment processing system?",high
+"What are the challenges of maintaining data consistency in a microservices architecture, and what patterns can be used to address them?",high
+"Design a fault-tolerant and scalable web crawler that can crawl billions of pages.",high
+"Explain the CAP theorem and how it influences the design of distributed databases.",high
+"How would you design a system that recommends articles to users on a news website?",high
+"Discuss the design of a distributed message queue like Kafka. What makes it scalable and fault-tolerant?",high
+"How would you design a system to generate unique IDs at a large scale, like Twitter's Snowflake.",high
+"Explain the difference between concurrency and parallelism. Provide a code example to illustrate the difference.",high
+"How would you solve the dining philosophers problem without causing deadlock or starvation?",high
+"Implement a thread-safe singleton pattern in your language of choice.",high
+"What are the challenges in designing a real-time bidding system for online advertising?",high
+"Design a system that can detect plagiarism in a large corpus of documents.",high
+"How would you architect a system for collaborative document editing, like Google Docs?",high
+"Discuss the trade-offs between using WebSockets, Long Polling, and Server-Sent Events for real-time updates.",high
+"Design a system to count the number of unique visitors to a website in real-time.",high
+"Explain how you would design a scalable and resilient e-commerce search service.",high
+"How would you implement a distributed locking service?",high
+"Design a system to aggregate and display real-time sports scores from multiple sources.",high
+"What are the architectural patterns you would consider for building a highly scalable API gateway?",high
+"How would you design a system to monitor the health of thousands of servers and services?",high
+"Discuss the challenges and solutions for managing database schema changes in a CI/CD pipeline with zero downtime.",high
+"Design a system for generating and delivering personalized email marketing campaigns to millions of users.",high
+"How would you build a system to crawl and index the public posts of a social media platform for search?",high
+"Explain the architecture of a modern data warehouse. Compare it with a data lake.",high
+"Design a system to process a stream of financial transactions for real-time fraud detection.",high
+"How would you design a geo-distributed database system that provides low latency reads for users across the globe?",high
+"Discuss the security implications of using microservices and how you would mitigate them.",high
+"Design a system to manage and serve feature flags to a large number of clients.",high
+"How would you architect a system for online gaming with a large number of concurrent players?",high
+"Explain the difference between eventual consistency, strong consistency, and causal consistency.",high
+"Design a system for tracking and analyzing user behavior on a website to improve user experience.",high
+"How would you build a recommendation engine for a movie streaming service?",high
+"Discuss the challenges of building a search engine for a large e-commerce site with millions of products.",high
+"Design a system for a food delivery service, from order placement to delivery tracking.",high
+"How would you design a system to handle and process large file uploads and downloads efficiently?",high
+"Explain the architecture of a distributed file system like HDFS or Google File System.",high
+"Design a system for a cloud-based code editor like VS Code for the Web.",high
+"How would you design a system to manage and schedule jobs in a large compute cluster?",high
+"Discuss the design of a content delivery network (CDN) and how it optimizes content delivery.",high
+"How would you build a system to provide real-time stock market data to a trading application?",high
+"Design a system for an online booking platform, like for hotels or flights, ensuring consistency and handling concurrency.",high
+"Explain how you would design a system to manage user-generated content moderation, possibly using a combination of automated tools and human reviewers.",high
+"Design a system for a massively multiplayer online (MMO) game, focusing on state synchronization and network communication.",high
+"How would you architect a system for real-time analytics and dashboarding on a large, fast-moving dataset?",high
+"Discuss the design of a password manager service, with a strong focus on security and data encryption.",high
+"How would you build a system that can provide personalized news recommendations based on user reading history and interests?",high
+"Design a system for a distributed web cache. How would you handle cache invalidation?",high
+"Explain the architecture of a serverless application. What are its benefits and drawbacks?",high
+"How would you design a system for a large-scale online survey platform?",high
+"Discuss the design of a system that can detect credit card fraud in real-time.",high
+"How would you build a system for a location-based service like Yelp or Foursquare?",high
+"Design a system for a distributed database that supports ACID transactions.",high
+"Explain how you would design a system for a code deployment pipeline that ensures zero downtime.",high
+"How would you architect a system for a large-scale e-learning platform with video streaming and interactive quizzes?",high
+"Discuss the design of a system that can handle a high volume of writes, such as a logging service or an event sourcing system.",high
+"How would you build a system to provide real-time translation services?",high
+"Design a system for a distributed search engine that can index and search billions of documents.",high
+"Explain how you would design a system for a cloud storage service like Dropbox, focusing on file synchronization across multiple devices.",high
+"How would you architect a system for a social network's friend suggestion feature?",high
+"Discuss the design of a system that can process and analyze a stream of tweets for sentiment analysis.",high
+"How would you build a system for a real-time collaborative whiteboard application?",high
+"Design a system for a large-scale online advertising network, from ad serving to click tracking.",high
+"Explain how you would design a system for a weather forecasting service that aggregates data from multiple sources.",high
+"How would you architect a system for a healthcare platform that manages electronic health records (EHRs) securely?",high
+"Discuss the design of a system that can handle a massive number of concurrent connections for an IoT platform.",high
+"How would you build a system for a financial trading platform that requires low latency and high throughput?",high
+"Design a system for a music streaming service like Spotify, including music recommendation and playlist management.",high
+"Explain how you would design a system for a travel aggregator website that pulls data from multiple airline and hotel APIs.",high
+"How would you architect a system for a customer support platform with a ticketing system and a knowledge base?",high
+"Discuss the design of a system that can provide personalized search results based on user history and profile.",high
+"How would you build a system for a real-time traffic navigation app like Waze or Google Maps?",high
+"Design a system for a large-scale online multiplayer game like Fortnite or World of Warcraft.",high
+"Explain how you would design a system for a content moderation platform that uses AI to flag inappropriate content.",high
+"How would you architect a system for a subscription management and billing platform?",high
+"Discuss the design of a system that can provide real-time sports analytics and visualizations.",high
+"How would you build a system for a code-sharing and collaboration platform like GitHub or GitLab?",high
+"Design a system for a large-scale email service like Gmail, focusing on spam filtering and search.",high
+"Explain how you would design a system for a cloud-based backup and recovery service.",high
+"How would you architect a system for a real-time auction platform?",high
+"Discuss the design of a system that can analyze and visualize large-scale genomic data.",high
+"How would you build a system for a smart home platform that connects and controls various IoT devices?",high
+"Design a system for a large-scale online learning platform with live classes and on-demand video courses.",high
+"Explain how you would design a system for a logistics and supply chain management platform.",high
+"How would you architect a system for a digital rights management (DRM) service?",high
+"Discuss the design of a system that can provide real-time recommendations for a fashion e-commerce site.",high
+"How would you build a system for a large-scale customer relationship management (CRM) platform?",high
+"Design a system for a real-time fantasy sports platform.",high
+"Explain how you would design a system for a legal tech platform that provides document analysis and search.",high
+"How would you architect a system for a large-scale online event ticketing platform?",high
+"Discuss the design of a system that can provide real-time insights from a fleet of connected vehicles.",high
+"How would you build a system for a personalized fitness and workout tracking application?",high
+"Design a system for a large-scale online forum or message board like Reddit or Quora.",high
+"Explain how you would design a system for a real-time language learning application with speech recognition.",high
+"How would you architect a system for a cloud-based video conferencing service like Zoom or Google Meet?",high
+"Discuss the design of a system that can manage and analyze a large portfolio of financial assets.",high
+"How would you build a system for a real-time collaborative project management tool like Trello or Asana?",high
+"Design a system for a large-scale online food ordering and delivery platform.",high
+"Explain how you would design a system for a real-time public transportation tracking and information service.",high
+"How would you architect a system for a cloud-based identity and access management (IAM) platform?",high
+"Discuss the design of a system that can provide personalized travel recommendations and itinerary planning.",high
+"How would you build a system for a large-scale online marketplace for freelance services like Upwork or Fiverr?",high
+"Design a system for a real-time news aggregation and personalization service.",high
+"Explain how you would design a system for a smart city platform that integrates data from various urban systems.",high
+"How would you architect a system for a large-scale online survey and feedback collection tool?",high
+"Discuss the design of a system that can provide real-time customer support through chatbots and live chat.",high
+"How would you build a system for a personalized podcast streaming and recommendation service?",high
+"Design a system for a large-scale online classifieds platform like Craigslist or OLX.",high
+"Explain how you would design a system for a real-time election monitoring and results reporting platform.",high
+"How would you architect a system for a cloud-based data visualization and business intelligence tool?",high
+"Discuss the design of a system that can manage and analyze data from a large network of environmental sensors.",high
+"How would you build a system for a personalized online learning path recommendation engine?",high
+"Design a system for a large-scale online art marketplace and gallery.",high
+"Explain how you would design a system for a real-time collaborative mind-mapping tool.",high
+"How would you architect a system for a cloud-based human resources management (HRM) platform?",high
+"Discuss the design of a system that can provide real-time traffic and congestion prediction.",high
+"How would you build a system for a personalized online recipe and meal planning application?",high
+"Design a system for a large-scale online book club and reading community platform.",high
+"Explain how you would design a system for a real-time collaborative code editor with shared sessions.",high
+"How would you architect a system for a cloud-based project portfolio management (PPM) tool?",high
+"Discuss the design of a system that can analyze and visualize social media trends in real-time.",high
+"How would you build a system for a personalized online news and magazine subscription service?",high
+"Design a system for a large-scale online pet adoption and community platform.",high
+"Explain how you would design a system for a real-time collaborative music creation and production tool.",high
+"How would you architect a system for a cloud-based customer data platform (CDP)?",high
+"Discuss the design of a system that can provide real-time recommendations for local events and activities.",high
+"How would you build a system for a personalized online language exchange and tutoring platform?",high
+"Design a system for a large-scale online gaming community and tournament platform.",high
+"Explain how you would design a system for a real-time collaborative video editing and review tool.",high
+"How would you architect a system for a cloud-based enterprise resource planning (ERP) system?",high
+"Discuss the design of a system that can analyze and predict stock market trends using machine learning.",high
+"How would you build a system for a personalized online mental health and wellness application?",high
+"Design a system for a large-scale online platform for scientific research collaboration and data sharing.",high
+"Explain how you would design a system for a real-time collaborative design and prototyping tool like Figma.",high
+"How would you architect a system for a cloud-based supply chain visibility and tracking platform?",high
+"Discuss the design of a system that can provide personalized product recommendations for a grocery delivery service.",high
+"How would you build a system for a large-scale online platform for non-profit organizations and volunteering.",high
+"Design a system for a real-time collaborative writing and editing platform like Google Docs.",high
+"Explain how you would design a system for a smart agriculture platform that uses IoT and data analytics.",high
+"How would you architect a system for a cloud-based legal case management and e-discovery platform?",high
+"Discuss the design of a system that can analyze and visualize public health data in real-time.",high
+"How would you build a system for a personalized online career development and mentorship platform?",high
+"Design a system for a large-scale online platform for local communities and neighborhood groups.",high
+"Explain how you would design a system for a real-time collaborative 3D modeling and animation tool.",high
+"How would you architect a system for a cloud-based financial planning and wealth management platform?",high
+"Discuss the design of a system that can provide real-time recommendations for cultural attractions and museums.",high
+"How would you build a system for a large-scale online platform for hobbyists and special interest groups?",high
+"Design a system for a real-time collaborative presentation and slideshow creation tool.",high
+"Explain how you would design a system for a smart energy grid management platform.",high
+"How would you architect a system for a cloud-based customer feedback and sentiment analysis platform?",high
+"Discuss the design of a system that can analyze and visualize satellite imagery for environmental monitoring.",high
+"How would you build a system for a personalized online travel journal and photo sharing application?",high
+"Design a system for a large-scale online platform for artists and creative professionals to showcase their portfolios.",high
+"Explain how you would design a system for a real-time collaborative brainstorming and whiteboarding tool.",high
+"How would you architect a system for a cloud-based inventory management and order fulfillment platform?",high
+"Discuss the design of a system that can provide personalized recommendations for books and literature.",high
+"How would you build a system for a large-scale online platform for political activism and civic engagement.",high
+"Design a system for a real-time collaborative music playlist creation and sharing service.",high
+"Explain how you would design a system for a smart building management platform.",high
+"How would you architect a system for a cloud-based market research and consumer insights platform?",high
+"Discuss the design of a system that can analyze and visualize transportation and mobility data.",high
+"How would you build a system for a personalized online fitness and nutrition coaching platform?",high
+"Design a system for a large-scale online platform for language and cultural exchange.",high
+"Explain how you would design a system for a real-time collaborative game development and asset management tool.",high
+"How would you architect a system for a cloud-based customer service and help desk platform?",high
+"Discuss the design of a system that can provide personalized recommendations for restaurants and dining experiences.",high
+"How would you build a system for a large-scale online platform for community gardening and urban farming.",high
+"Design a system for a real-time collaborative document review and annotation tool.",high
+"Explain how you would design a system for a smart water management and conservation platform.",high
+"How would you architect a system for a cloud-based competitive intelligence and market analysis platform?",high
+"Discuss the design of a system that can analyze and visualize climate change and weather pattern data.",high
+"How would you build a system for a personalized online platform for learning new skills and hobbies?",high
+"Design a system for a large-scale online platform for musicians and bands to connect and collaborate.",high
+"Explain how you would design a system for a real-time collaborative virtual event and conference platform.",high
+"How would you architect a system for a cloud-based field service management and scheduling platform?",high
+"Discuss the design of a system that can provide personalized recommendations for movies and TV shows.",high
+"How would you build a system for a large-scale online platform for local artisans and craftspeople.",high
+"Design a system for a real-time collaborative story writing and world-building platform.",high
+"Explain how you would design a system for a smart waste management and recycling platform.",high
+"How would you architect a system for a cloud-based brand monitoring and social listening platform?",high
+"Discuss the design of a system that can analyze and visualize real estate market trends.",high
+"How would you build a system for a personalized online platform for financial literacy and investment education.",high
+"Design a system for a large-scale online platform for photographers to share and sell their work.",high
+"Explain how you would design a system for a real-time collaborative mind-mapping and diagramming tool.",high
+"How would you architect a system for a cloud-based asset management and tracking platform?",high
+"Discuss the design of a system that can provide personalized recommendations for podcasts and audio content.",high
+"How would you build a system for a large-scale online platform for citizen science and research projects.",high
+"Design a system for a real-time collaborative music notation and composition tool.",high
+"Explain how you would design a system for a smart traffic management and control platform.",high
+"How would you architect a system for a cloud-based employee engagement and feedback platform?",high
+"Discuss the design of a system that can analyze and visualize demographic and population data.",high
+"How would you build a system for a personalized online platform for managing personal finances and budgets.",high
+"Design a system for a large-scale online platform for filmmakers and video creators to collaborate.",high
+"Explain how you would design a system for a real-time collaborative virtual classroom and tutoring platform.",high
+"How would you architect a system for a cloud-based procurement and sourcing platform?",high
+"Discuss the design of a system that can provide personalized recommendations for travel destinations and activities.",high
+"How would you build a system for a large-scale online platform for local sports leagues and teams.",high
+"Design a system for a real-time collaborative code review and feedback tool.",high
+"Explain how you would design a system for a smart parking management and guidance platform.",high
+"How would you architect a system for a cloud-based customer journey mapping and optimization platform?",high
+"Discuss the design of a system that can analyze and visualize air quality and pollution data.",high
+"How would you build a system for a personalized online platform for developing soft skills and emotional intelligence.",high
+"Design a system for a large-scale online platform for writers and authors to connect and critique each other's work.",high
+"Explain how you would design a system for a real-time collaborative virtual lab and simulation environment.",high
+"How would you architect a system for a cloud-based vendor management and relationship platform?",high
+"Discuss the design of a system that can provide personalized recommendations for news articles and blog posts.",high
+"How would you build a system for a large-scale online platform for community-based learning and skill sharing.",high
+"Design a system for a real-time collaborative whiteboard and ideation tool.",high
+"Explain how you would design a system for a smart grid and energy distribution management platform.",high
+"How would you architect a system for a cloud-based product lifecycle management (PLM) platform?",high
+"Discuss the design of a system that can analyze and visualize global trade and economic data.",high
+"How would you build a system for a personalized online platform for preparing for competitive exams and certifications.",high
+"Design a system for a large-scale online platform for dancers and choreographers to collaborate and showcase their work.",high
+"Explain how you would design a system for a real-time collaborative virtual reality (VR) design and review tool.",high
+"How would you architect a system for a cloud-based governance, risk, and compliance (GRC) platform?",high
+"Discuss the design of a system that can provide personalized recommendations for fashion and apparel.",high
+"How would you build a system for a large-scale online platform for historical preservation and archival projects.",high
+"Design a system for a real-time collaborative music transcription and analysis tool.",high
+"Explain how you would design a system for a smart public safety and emergency response platform.",high
+"How would you architect a system for a cloud-based talent management and succession planning platform?",high
+"Discuss the design of a system that can analyze and visualize astronomical data from telescopes.",high
+"How would you build a system for a personalized online platform for learning a musical instrument.",high
+"Design a system for a large-scale online platform for game modders and content creators.",high
+"Explain how you would design a system for a real-time collaborative augmented reality (AR) authoring tool.",high
+"How would you architect a system for a cloud-based contract lifecycle management (CLM) platform?",high
+"Discuss the design of a system that can provide personalized recommendations for home decor and furniture.",high
+"How would you build a system for a large-scale online platform for genealogy and family history research.",high
+"Design a system for a real-time collaborative podcast production and editing tool.",high
+"Explain how you would design a system for a smart city data analytics and visualization platform.",high
+"How would you architect a system for a cloud-based customer success and advocacy platform?",high
+"Discuss the design of a system that can analyze and visualize scientific research papers and citations.",high
+"How would you build a system for a personalized online platform for mindfulness and meditation.",high
+"Design a system for a large-scale online platform for tabletop role-playing game (TTRPG) groups.",high
+"Explain how you would design a system for a real-time collaborative virtual fashion design and fitting room.",high
+"How would you architect a system for a cloud-based business process management (BPM) suite?",high
+"Discuss the design of a system that can provide personalized recommendations for financial products and services.",high
+"How would you build a system for a large-scale online platform for urban exploration and mapping.",high
+"Design a system for a real-time collaborative scientific data analysis and visualization tool.",high
+"Explain how you would design a system for a smart campus and student life management platform.",high
+"How would you architect a system for a cloud-based digital asset management (DAM) platform?",high
+"Discuss the design of a system that can analyze and visualize social network graphs and communities.",high
+"How would you build a system for a personalized online platform for learning to code and practice programming.",high
+"Design a system for a large-scale online platform for independent filmmakers to fund and distribute their work.",high
+"Explain how you would design a system for a real-time collaborative virtual chemistry lab.",high
+"How would you architect a system for a cloud-based IT service management (ITSM) platform?",high
+"Discuss the design of a system that can provide personalized recommendations for local services and businesses.",high
+"How would you build a system for a large-scale online platform for citizen journalism and reporting.",high
+"Design a system for a real-time collaborative music performance and jam session tool.",high
+"Explain how you would design a system for a smart transportation and logistics optimization platform.",high
+"How would you architect a system for a cloud-based marketing automation and campaign management platform?",high
+"Discuss the design of a system that can analyze and visualize weather and climate model data.",high
+"How would you build a system for a personalized online platform for public speaking and presentation skills.",high
+"Design a system for a large-scale online platform for comic book creators and fans.",high
+"Explain how you would design a system for a real-time collaborative virtual architectural design and walkthrough tool.",high
+"How would you architect a system for a cloud-based legal practice management platform?",high
+"Discuss the design of a system that can provide personalized recommendations for health and wellness products.",high
+"How would you build a system for a large-scale online platform for oral history and storytelling projects.",high
+"Design a system for a real-time collaborative audio post-production and sound design tool.",high
+"Explain how you would design a system for a smart city infrastructure monitoring and maintenance platform.",high
+"How would you architect a system for a cloud-based customer loyalty and rewards program platform?",high
+"Discuss the design of a system that can analyze and visualize election and polling data.",high
+"How would you build a system for a personalized online platform for creative writing and storytelling.",high
+"Design a system for a large-scale online platform for street artists and muralists.",high
+"Explain how you would design a system for a real-time collaborative virtual physics lab.",high
+"How would you architect a system for a cloud-based grant management and reporting platform?",high
+"Discuss the design of a system that can provide personalized recommendations for outdoor activities and adventures.",high
+"How would you build a system for a large-scale online platform for cultural heritage and digital archives.",high
+"Design a system for a real-time collaborative video game level design tool.",high
+"Explain how you would design a system for a smart public transit and fleet management platform.",high
+"How would you architect a system for a cloud-based sales enablement and content management platform?",high
+"Discuss the design of a system that can analyze and visualize financial market data in real-time.",high
+"How would you build a system for a personalized online platform for learning foreign languages.",high
+"Design a system for a large-scale online platform for independent musicians to distribute and monetize their music.",high
+"Explain how you would design a system for a real-time collaborative virtual biology lab.",high
+"How would you architect a system for a cloud-based non-profit donor management and fundraising platform?",high
+"Discuss the design of a system that can provide personalized recommendations for local food and farmers' markets.",high
+"How would you build a system for a large-scale online platform for community-based archiving and oral history.",high
+"Design a system for a real-time collaborative film pre-production and storyboarding tool.",high
+"Explain how you would design a system for a smart city public lighting and energy management platform.",high
+"How would you architect a system for a cloud-based partner relationship management (PRM) platform?",high
+"Discuss the design of a system that can analyze and visualize sports performance and biometric data.",high
+"How would you build a system for a personalized online platform for learning data science and machine learning.",high
+"Design a system for a large-scale online platform for independent game developers to collaborate and publish their games.",high
+"Explain how you would design a system for a real-time collaborative virtual engineering and CAD tool.",high
+"How would you architect a system for a cloud-based event management and registration platform?",high
+"Discuss the design of a system that can provide personalized recommendations for local news and events.",high
+"How would you build a system for a large-scale online platform for community-based journalism and media production.",high
+"Design a system for a real-time collaborative music arrangement and orchestration tool.",high
+"Explain how you would design a system for a smart city water and wastewater management platform.",high
+"How would you architect a system for a cloud-based channel sales and marketing platform?",high
+"Discuss the design of a system that can analyze and visualize public opinion and social media sentiment.",high
+"How would you build a system for a personalized online platform for learning history and social sciences.",high
+"Design a system for a large-scale online platform for fashion designers to showcase their collections.",high
+"Explain how you would design a system for a real-time collaborative virtual product design and review tool.",high
+"How would you architect a system for a cloud-based risk management and compliance platform?",high
+"Discuss the design of a system that can provide personalized recommendations for beauty and cosmetic products.",high
+"How would you build a system for a large-scale online platform for documenting and preserving endangered languages.",high
+"Design a system for a real-time collaborative podcast recording and editing platform.",high
+"Explain how you would design a system for a smart city emergency management and communication platform.",high
+"How would you architect a system for a cloud-based customer advocacy and referral marketing platform?",high
+"Discuss the design of a system that can analyze and visualize academic research and publication trends.",high
+"How would you build a system for a personalized online platform for learning philosophy and critical thinking.",high
+"Design a system for a large-scale online platform for independent authors to self-publish and sell their books.",high
+"Explain how you would design a system for a real-time collaborative virtual museum and gallery tour.",high
+"How would you architect a system for a cloud-based legal document management and collaboration platform?",high
+"Discuss the design of a system that can provide personalized recommendations for wine and spirits.",high
+"How would you build a system for a large-scale online platform for preserving and sharing family recipes and culinary traditions.",high
+"Design a system for a real-time collaborative screenplay writing and development tool.",high
+"Explain how you would design a system for a smart city public space and park management platform.",high
+"How would you architect a system for a cloud-based influencer marketing and management platform?",high
+"Discuss the design of a system that can analyze and visualize consumer behavior and purchasing patterns.",high
+"How would you build a system for a personalized online platform for learning about art history and appreciation.",high
+"Design a system for a large-scale online platform for stand-up comedians to share their material and book gigs.",high
+"Explain how you would design a system for a real-time collaborative virtual city planning and urban design tool.",high
+"How would you architect a system for a cloud-based franchise management and operations platform?",high
+"Discuss the design of a system that can provide personalized recommendations for board games and tabletop games.",high
+"How would you build a system for a large-scale online platform for documenting and sharing local folklore and legends.",high
+"Design a system for a real-time collaborative music theory and ear training application.",high
+"Explain how you would design a system for a smart city mobility and transportation planning platform.",high
+"How would you architect a system for a cloud-based customer data and analytics platform?",high
+"Discuss the design of a system that can analyze and visualize political campaign finance and lobbying data.",high
+"How would you build a system for a personalized online platform for learning about different cultures and traditions.",high
+"Design a system for a large-scale online platform for poets to share their work and collaborate.",high
+"Explain how you would design a system for a real-time collaborative virtual interior design and home staging tool.",high
+"How would you architect a system for a cloud-based real estate and property management platform?",high
+"Discuss the design of a system that can provide personalized recommendations for craft beer and breweries.",high
+"How would you build a system for a large-scale online platform for collecting and sharing personal stories and life experiences.",high
+"Design a system for a real-time collaborative music improvisation and jam session platform.",high
+"Explain how you would design a system for a smart city environmental monitoring and reporting platform.",high
+"How would you architect a system for a cloud-based customer support and knowledge management platform?",high
+"Discuss the design of a system that can analyze and visualize government spending and budget data.",high
+"How would you build a system for a personalized online platform for learning about astronomy and space exploration.",high
+"Design a system for a large-scale online platform for tattoo artists to showcase their portfolios and book appointments.",high
+"Explain how you would design a system for a real-time collaborative virtual landscape architecture and design tool.",high
+"How would you architect a system for a cloud-based construction project management and collaboration platform?",high
+"Discuss the design of a system that can provide personalized recommendations for coffee and tea.",high
+"How would you build a system for a large-scale online platform for collecting and preserving community histories.",high
+"Design a system for a real-time collaborative music education and tutoring platform.",high
+"Explain how you would design a system for a smart city public transportation and multimodal journey planning platform.",high
+"How would you architect a system for a cloud-based content marketing and distribution platform?",high
+"Discuss the design of a system that can analyze and visualize public health and epidemiology data.",high
+"How would you build a system for a personalized online platform for learning about psychology and human behavior.",high
+"Design a system for a large-scale online platform for graphic designers to collaborate and share resources.",high
+"Explain how you would design a system for a real-time collaborative virtual medical training and surgical simulation.",high
+"How would you architect a system for a cloud-based legal research and citation management platform?",high
+"Discuss the design of a system that can provide personalized recommendations for ethical and sustainable products.",high
+"How would you build a system for a large-scale online platform for documenting and sharing indigenous knowledge and traditions.",high
+"Design a system for a real-time collaborative film scoring and sound design tool.",high
+"Explain how you would design a system for a smart city waste and recycling collection optimization platform.",high
+"How would you architect a system for a cloud-based social media management and analytics platform?",high
+"Discuss the design of a system that can analyze and visualize global supply chain and logistics data.",high
+"How would you build a system for a personalized online platform for learning about economics and finance.",high
+"Design a system for a large-scale online platform for illustrators and cartoonists to share their work.",high
+"Explain how you would design a system for a real-time collaborative virtual automotive design and engineering tool.",high
+"How would you architect a system for a cloud-based non-profit program management and impact reporting platform?",high
+"Discuss the design of a system that can provide personalized recommendations for local and artisanal food products.",high
+"How would you build a system for a large-scale online platform for preserving and sharing personal and family archives.",high
