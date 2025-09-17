@@ -1,0 +1,11 @@
+Sub DeleteEmptyRows()
+    Dim R As Long
+    Dim LastRow As Long
+    LastRow = ActiveSheet.Cells(Rows.Count, 1).End(xlUp).Row
+    
+    For R = LastRow To 1 Step -1
+        If Application.WorksheetFunction.CountA(Rows(R)) = 0 Then
+            Rows(R).Delete
+        End If
+    Next R
+End Sub
