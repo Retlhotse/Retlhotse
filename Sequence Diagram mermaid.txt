@@ -1,0 +1,33 @@
+sequenceDiagram
+    autonumber
+    actor User
+    participant API as FastAPI
+    participant CL as Classifier Agent
+    participant AG as Sub-Agent (AgentExecutor)
+    participant T as Tools (@tool)
+    participant DB as Databases (BDP/Weaviate)
+
+    User->>API: POST /query {prompt}
+    
+    rect rgb(240, 240, 240)
+    Note over API, CL: Orchestration Phase
+    API->>CL: invoke(prompt)
+    CL->>CL: LLM Decides which sub agent to use
+    CL-->>API: {domain: "dq_investigation", reasoning: "..."}
+    end
+
+    API->>AG: Selected Agent .invoke(prompt)
+
+    rect rgb(230, 245, 255)
+    Note over AG, DB: Agentic Loop (Thought/Action/Observation)
+    loop until Final Answer
+        AG->>AG: LLM decides which tool to use
+        AG->>T: call tool (e.g., query_dq_issues)
+        T->>DB: Execute SQL or Vector Search
+        DB-->>T: Return Result Set
+        T-->>AG: Tool Observation
+    end
+    end
+
+    AG-->>API: Final Synthesized Answer
+    API-->>User: QueryResponse {agent, answer}
