@@ -1,0 +1,45 @@
+sequenceDiagram
+    actor User
+    participant Main as main.py
+    participant Mem as ConversationMemory
+    participant Agent as AgentExecutor
+    participant LLM as ChatOpenAI (GPT-4o)
+    participant Skills as Skill Tools
+    participant DB as SQLite
+
+    User->>Main: "Find user Alice"
+
+    Note over Main,Mem: Store & prepare context
+    Main->>Mem: add_user_message(text)
+    Main->>Mem: get_context_messages()
+
+    alt Token count > SUMMARY_THRESHOLD
+        Mem->>LLM: Summarise old messages
+        LLM-->>Mem: Running summary text
+        Mem->>Mem: Drop old messages, keep summary
+    end
+
+    Mem-->>Main: [system_prompt, summary, recent_turns]
+
+    Note over Main,Agent: Invoke the agent
+    Main->>Agent: ainvoke(input, chat_history)
+
+    loop Tool-calling loop (until final answer)
+        Agent->>LLM: Prompt + tool definitions
+        LLM-->>Agent: tool_call: search_users("Alice")
+
+        Agent->>Skills: Execute search_users("Alice")
+        Skills->>DB: SELECT * FROM users WHERE name LIKE '%Alice%'
+        DB-->>Skills: [{id: 1, name: "Alice Johnson", ...}]
+        Skills-->>Agent: Tool result string
+
+        Agent->>LLM: Prompt + tool result
+        LLM-->>Agent: Final answer (or another tool_call)
+    end
+
+    Agent-->>Main: result["output"]
+
+    Note over Main,Mem: Store response
+    Main->>Mem: add_ai_message(reply)
+
+    Main-->>User: Display reply
