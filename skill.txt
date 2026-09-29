@@ -1,0 +1,45 @@
+Build an OKF v0.2 knowledge bundle for END USERS of this application, not developers.
+
+Reader: a non-technical user of the website, or an AI assistant helping that user.
+The reader never sees code, file paths, class names, APIs or database tables.
+
+Work from: routes/pages, UI components (labels, buttons, form fields), validation
+and error messages, i18n/translation files, permission/role checks, and feature flags.
+
+Output to ./user-guide-okf/ with this structure:
+  index.md          (okf_version: "0.2")
+  log.md
+  tasks/            one concept per thing a user wants to DO
+  screens/          one concept per page/screen the user sees
+  roles/            one concept per user role and what it can do
+  troubleshooting/  one concept per user-visible error message
+  glossary/         domain terms as the UI uses them
+
+Concept types: User Task, Screen, Role, Error Message, Glossary Term.
+
+Frontmatter for every concept:
+  type, title, description (one sentence, in user language), tags,
+  status: draft
+  generated: { by: kiro/<model>, at: <now> }
+  sources: code locations you derived it from (for maintainers only; never
+           mention them in the body)
+  applies_to_roles: [..]   (extension field; list roles that can see/do this)
+
+User Task body sections: # When to use this, # Before you start,
+# Steps (numbered, using the exact button/field labels from the UI),
+# What you should see, # If something goes wrong (link to troubleshooting).
+
+Rules:
+- Use the exact UI text for labels. If a label comes from a translation key,
+  resolve it to the English string.
+- Write in plain language. No code, paths, endpoints or internal names in bodies.
+- If behaviour depends on a feature flag or role, say so in user terms
+  ("Only administrators see this option").
+- If you cannot confirm a step from the code (e.g. dynamic UI, text built at
+  runtime), write the step anyway but add "> UNVERIFIED: <reason>" under it.
+- Link concepts with bundle-relative markdown links (/tasks/x.md).
+- Do not invent features. If unsure whether something is user-facing, leave it
+  out and list it in log.md under "Excluded / needs review".
+
+Start by listing all user-facing routes and roles, show me that inventory, and
+wait for my confirmation before writing concepts.
